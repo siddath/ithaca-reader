@@ -1,0 +1,19 @@
+name: Reader problem
+description: Report a reproducible reading or authoring problem.
+title: ''
+body:
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened?
+      description: Include the chapter URL or edition, expected behavior and steps to reproduce. Remove private information.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, device and version
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Relevant screenshot or error

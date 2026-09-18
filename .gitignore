@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+public/content/
+public/texts/
+src/generated/
+playwright-report/
+test-results/
+evidence/
+coverage/
+*.tsbuildinfo
+.DS_Store

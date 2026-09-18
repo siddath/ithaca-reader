@@ -1,0 +1,222 @@
+[
+  {
+    "path": "sources/odyssey-01.txt",
+    "bytes": 21619,
+    "sha256": "43f1ae19a49dce8442b2f114cfff99727be6de92046dbf48afbfff2f83e9992d"
+  },
+  {
+    "path": "sources/odyssey-02.txt",
+    "bytes": 22137,
+    "sha256": "fce26743447ef996d5614c88a74011ef80ed058fd63ef3d076793b832ce9116a"
+  },
+  {
+    "path": "sources/odyssey-03.txt",
+    "bytes": 25322,
+    "sha256": "437822f1b0c2e6cad18ced8e78c9a49e2aed25052ff03669c0edcd7868b5158a"
+  },
+  {
+    "path": "sources/odyssey-04.txt",
+    "bytes": 42379,
+    "sha256": "77a2e98f4c15df6fe17910b86fdc6775b9563a95393ef28d66a8613eb9097077"
+  },
+  {
+    "path": "sources/odyssey-05.txt",
+    "bytes": 24289,
+    "sha256": "0833727f693277b0d904a632e81d529d268b840600b69073620c14a4b0f29b07"
+  },
+  {
+    "path": "sources/odyssey-06.txt",
+    "bytes": 17897,
+    "sha256": "e7763133590905930207df7cd7eab90937fdb51bb8e3d500ba83c04722d9d65f"
+  },
+  {
+    "path": "sources/odyssey-07.txt",
+    "bytes": 17826,
+    "sha256": "b00a1c325a43f8e45ba4d8bd1fb147f3daf32bac59fb1cfca3c9ac171675857f"
+  },
+  {
+    "path": "sources/odyssey-08.txt",
+    "bytes": 29926,
+    "sha256": "83c177006f0f5d87f64a818b1fbb160ae0b27634066c3a78c818edfd5c4f8a03"
+  },
+  {
+    "path": "sources/odyssey-09.txt",
+    "bytes": 29780,
+    "sha256": "38b1a860e390ce6ca0a4960864d019c08459eb2668939aa7a377ed984d1c7a5d"
+  },
+  {
+    "path": "sources/odyssey-10.txt",
+    "bytes": 29373,
+    "sha256": "2c4643c6e127dd84ef1687597118f5d86ec4a7adbd437a5c5dae46ae55ada38e"
+  },
+  {
+    "path": "sources/odyssey-11.txt",
+    "bytes": 31499,
+    "sha256": "27220963fae70dc642e5124f9d2659422f3d92d4917f86d297b43b17fd5fd0a9"
+  },
+  {
+    "path": "sources/odyssey-12.txt",
+    "bytes": 23807,
+    "sha256": "5979c90f87732fb02d76e8d6f9b3b166d9995233919c29b6c90204f7b2f9dffa"
+  },
+  {
+    "path": "sources/odyssey-13.txt",
+    "bytes": 22224,
+    "sha256": "df6b328b52cf85638700e89d060a283fd71288a624377b4b90eccbeb7b072ca9"
+  },
+  {
+    "path": "sources/odyssey-14.txt",
+    "bytes": 27676,
+    "sha256": "a9f66be11c209e0ebf0ea81fe321fc03ad1d1433e71c0559191f6630cc7822a6"
+  },
+  {
+    "path": "sources/odyssey-15.txt",
+    "bytes": 28368,
+    "sha256": "dafd56b6af9b63affeccd2af9872ce7c9f8cb86d24f8a8ce763c5a096ab81f0c"
+  },
+  {
+    "path": "sources/odyssey-16.txt",
+    "bytes": 23693,
+    "sha256": "69a3870915b3e15c048481a726d657ea806ea4d344be8ac105c481678349948c"
+  },
+  {
+    "path": "sources/odyssey-17.txt",
+    "bytes": 30925,
+    "sha256": "b8f9fb2b6db9357ab914fa84c0b1cba0f4cc1ba6b8f269cda9a93cb335fc4f2b"
+  },
+  {
+    "path": "sources/odyssey-18.txt",
+    "bytes": 21998,
+    "sha256": "ccd9ba0f7d4be0ae129b10603aefd59b25385845b14f7c6c8e03933e29724920"
+  },
+  {
+    "path": "sources/odyssey-19.txt",
+    "bytes": 31633,
+    "sha256": "2a6b620fa7186ff0f536fefd07084c4ee3a69dc5a8a8b1988521652101b3b816"
+  },
+  {
+    "path": "sources/odyssey-20.txt",
+    "bytes": 20571,
+    "sha256": "0fecb312896e28d57cef3898622a2f63ba2c19074c8e117c0c59ea5b4692b736"
+  },
+  {
+    "path": "sources/odyssey-21.txt",
+    "bytes": 22227,
+    "sha256": "0e85fcdcfc2442366495f375729c49d002d96929745657790bfbc5cb2d35b517"
+  },
+  {
+    "path": "sources/odyssey-22.txt",
+    "bytes": 24325,
+    "sha256": "568bd9f160e1aaa523fd47777de4767dc53b5d843840c4a8c3bca8bee45700d1"
+  },
+  {
+    "path": "sources/odyssey-23.txt",
+    "bytes": 19390,
+    "sha256": "a520dac143e1243a23efa7f58c124f2046ad0f1dc1d930946e61b31f7af0c3d1"
+  },
+  {
+    "path": "sources/odyssey-24.txt",
+    "bytes": 27763,
+    "sha256": "531685090843ba13d8ee3141ab2ee1aaebc183f9d28462ad65ace8d36d0074e0"
+  },
+  {
+    "path": "sources/ulysses-01.txt",
+    "bytes": 41174,
+    "sha256": "8bfaae6d2566145c1b48acb49277593937da54fdbd557697edbcc2943a7959ed"
+  },
+  {
+    "path": "sources/ulysses-02.txt",
+    "bytes": 25316,
+    "sha256": "31e1735136bdab2852f0f4e1f4d76e6e9f907cc377698246ae139d7b953fc367"
+  },
+  {
+    "path": "sources/ulysses-03.txt",
+    "bytes": 33070,
+    "sha256": "6d665be049d77599ef468214543871fe932aa1996e17cdf4191150dce28d64a0"
+  },
+  {
+    "path": "sources/ulysses-04.txt",
+    "bytes": 33582,
+    "sha256": "c7c55591ec909b112147b9cbc6b44ab89cf8647bf34494f2d5e09b4e6106745a"
+  },
+  {
+    "path": "sources/ulysses-05.txt",
+    "bytes": 36039,
+    "sha256": "d375de8932e0ab142aaecdbeb1368a759ce25ccbda1c333076f4f1bb315e61f3"
+  },
+  {
+    "path": "sources/ulysses-06.txt",
+    "bytes": 62215,
+    "sha256": "4093b49ed209a22ccb79c1fc00ad0c10f66091b5e32cc58ae7c35652f4e6ebed"
+  },
+  {
+    "path": "sources/ulysses-07.txt",
+    "bytes": 58604,
+    "sha256": "e51e38d78cbc02ddb9490bfb97de9ff030a6880558898e46e831514aaf25ed32"
+  },
+  {
+    "path": "sources/ulysses-08.txt",
+    "bytes": 72249,
+    "sha256": "3e9cf85e2b7803d075e0e4c86127403729a4836b589fea4a766afcd6be3aa1a3"
+  },
+  {
+    "path": "sources/ulysses-09.txt",
+    "bytes": 68736,
+    "sha256": "e8da5ba228a0ed2b18301d99b6b03e8b02f58ab2d1e43241aee84718482af3ec"
+  },
+  {
+    "path": "sources/ulysses-10.txt",
+    "bytes": 73960,
+    "sha256": "cc3e43772514c41ee3570daf3b7c8a86921385319777587224c9332b5ab1de95"
+  },
+  {
+    "path": "sources/ulysses-11.txt",
+    "bytes": 71588,
+    "sha256": "bf18d9cd79e881c8181a9f541c214452f63d8f49298e71ec9cd81a8a2dbe1d03"
+  },
+  {
+    "path": "sources/ulysses-12.txt",
+    "bytes": 121663,
+    "sha256": "6099e01f2846f12a7165efb17711ba426050b758a84ed917845a74c2a787ff31"
+  },
+  {
+    "path": "sources/ulysses-13.txt",
+    "bytes": 90867,
+    "sha256": "27f99e059541e9b25d1854bd340496696abb58a4527c0593b7d02529d6f13a0a"
+  },
+  {
+    "path": "sources/ulysses-14.txt",
+    "bytes": 114360,
+    "sha256": "93c84bd7355afd8fe422d64232f6d35a36c2ae435aad2075878c92d37893c10c"
+  },
+  {
+    "path": "sources/ulysses-15.txt",
+    "bytes": 234770,
+    "sha256": "a646322853b552c9828a8630155b520ae7b73857e58a732b2903b754934f1325"
+  },
+  {
+    "path": "sources/ulysses-16.txt",
+    "bytes": 129808,
+    "sha256": "2f7c2dc8cfcc4c9f1a92606c1ea1f372bf55000d4569afefd249c547587e76d4"
+  },
+  {
+    "path": "sources/ulysses-17.txt",
+    "bytes": 146771,
+    "sha256": "6fa6c7139e594340acdb5a2e70414fbcd63e48ed123df3b020df1799a916539e"
+  },
+  {
+    "path": "sources/ulysses-18.txt",
+    "bytes": 118745,
+    "sha256": "a06750831f947d879c455cd67168efe7aeac927b8c88ab1c7e43a43267c5c918"
+  },
+  {
+    "path": "sources/odyssey-butler.txt",
+    "bytes": 717784,
+    "sha256": "ffbdb29c3dda284b65c11243db1a98167826a70c81bca2ed4b6232f86c905fb9"
+  },
+  {
+    "path": "sources/ulysses-joyce.txt",
+    "bytes": 1586344,
+    "sha256": "e03094626f9528cf3fc287a49d6edbdbf47cd40483cb13ceb301e74e15ebbf9e"
+  }
+]

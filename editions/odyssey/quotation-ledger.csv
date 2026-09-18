@@ -1,0 +1,157 @@
+id,chapter,source,source_start_line,source_end_line,quote,verification
+odyssey-01-Q01,research/odyssey/book-01.md,sources/odyssey-01.txt,8,8,"Tell me, O Muse, of that ingenious hero who travelled far and wide",exact after whitespace normalization
+odyssey-01-Q02,research/odyssey/book-01.md,sources/odyssey-01.txt,36,37,"See now, how men lay blame upon us gods for what is after all nothing but their own folly.",exact after whitespace normalization
+odyssey-01-Q03,research/odyssey/book-01.md,sources/odyssey-01.txt,104,105,"to our house, and when you have partaken of food you shall tell us what you have come for.",exact after whitespace normalization
+odyssey-01-Q04,research/odyssey/book-01.md,sources/odyssey-01.txt,200,202,"he is gone without leaving so much as a trace behind him, and I inherit nothing but dismay.",exact after whitespace normalization
+odyssey-01-Q05,research/odyssey/book-01.md,sources/odyssey-01.txt,293,294,"for speech is man’s matter,",exact after whitespace normalization
+odyssey-02-Q01,research/odyssey/book-02.md,sources/odyssey-02.txt,54,55,No estate can stand such recklessness;,exact after whitespace normalization
+odyssey-02-Q02,research/odyssey/book-02.md,sources/odyssey-02.txt,91,92,but at night she would unpick the stitches again by torchlight.,exact after whitespace normalization
+odyssey-02-Q03,research/odyssey/book-02.md,sources/odyssey-02.txt,152,153,"birds are always flying about in the sunshine somewhere or other, but they seldom mean anything.",exact after whitespace normalization
+odyssey-02-Q04,research/odyssey/book-02.md,sources/odyssey-02.txt,203,204,for you are many and they are few.,exact after whitespace normalization
+odyssey-03-Q01,research/odyssey/book-03.md,sources/odyssey-03.txt,29,30,"will be suggested to you by your own instinct, and heaven will prompt you further;",exact after whitespace normalization
+odyssey-03-Q02,research/odyssey/book-03.md,sources/odyssey-03.txt,160,160,I know neither who got home safely nor who were lost,exact after whitespace normalization
+odyssey-03-Q03,research/odyssey/book-03.md,sources/odyssey-03.txt,200,201,provided I could be safe when I was once there.,exact after whitespace normalization
+odyssey-03-Q04,research/odyssey/book-03.md,sources/odyssey-03.txt,304,305,but they will keep open house as I have done.,exact after whitespace normalization
+odyssey-04-Q01,research/odyssey/book-04.md,sources/odyssey-04.txt,85,86,so that I have no pleasure in being lord of all this wealth.,exact after whitespace normalization
+odyssey-04-Q02,research/odyssey/book-04.md,sources/odyssey-04.txt,189,190,"She drugged the wine with an herb that banishes all care, sorrow, and ill humour.",exact after whitespace normalization
+odyssey-04-Q03,research/odyssey/book-04.md,sources/odyssey-04.txt,384,385,"but we stuck to him and never lost hold,",exact after whitespace normalization
+odyssey-04-Q04,research/odyssey/book-04.md,sources/odyssey-04.txt,510,511,"the country is more fit for goats than horses, and I like it the better for that.",exact after whitespace normalization
+odyssey-04-Q05,research/odyssey/book-04.md,sources/odyssey-04.txt,715,716,"I shall not tell you for certain whether he is alive or dead,",exact after whitespace normalization
+odyssey-05-Q01,research/odyssey/book-05.md,sources/odyssey-05.txt,124,125,"though he was forced to sleep with her in the cave by night, it was she, not he, that would have it so.",exact after whitespace normalization
+odyssey-05-Q02,research/odyssey/book-05.md,sources/odyssey-05.txt,178,179,"Nevertheless, I want to get home, and can think of nothing else.",exact after whitespace normalization
+odyssey-05-Q03,research/odyssey/book-05.md,sources/odyssey-05.txt,179,180,"If some god wrecks me when I am on the sea, I will bear it and make the best of it.",exact after whitespace normalization
+odyssey-05-Q04,research/odyssey/book-05.md,sources/odyssey-05.txt,364,365,"Have mercy upon me, O king, for I declare myself your suppliant.",exact after whitespace normalization
+odyssey-06-Q01,research/odyssey/book-06.md,sources/odyssey-06.txt,110,110,"Are they cruel, savage, and uncivilised, or hospitable and humane?",exact after whitespace normalization
+odyssey-06-Q02,research/odyssey/book-06.md,sources/odyssey-06.txt,130,131,In the end he deemed it best to entreat her from a distance,exact after whitespace normalization
+odyssey-06-Q03,research/odyssey/book-06.md,sources/odyssey-06.txt,162,164,for there is nothing better in this world than that man and wife should be of one mind in a house.,exact after whitespace normalization
+odyssey-06-Q04,research/odyssey/book-06.md,sources/odyssey-06.txt,183,184,"for strangers and foreigners in distress are under Jove’s protection,",exact after whitespace normalization
+odyssey-07-Q01,research/odyssey/book-07.md,sources/odyssey-07.txt,143,144,it is not creditable to you that a stranger should be seen sitting among the ashes of your hearth;,exact after whitespace normalization
+odyssey-07-Q02,research/odyssey/book-07.md,sources/odyssey-07.txt,186,187,"I have nothing of the immortal about me, neither in body nor mind,",exact after whitespace normalization
+odyssey-07-Q03,research/odyssey/book-07.md,sources/odyssey-07.txt,190,191,"for an empty stomach is a very importunate thing,",exact after whitespace normalization
+odyssey-07-Q04,research/odyssey/book-07.md,sources/odyssey-07.txt,208,208,"Who, and whence are you, and who gave you those clothes?",exact after whitespace normalization
+odyssey-07-Q05,research/odyssey/book-07.md,sources/odyssey-07.txt,275,276,"but no one (heaven forbid) shall keep you here against your own wish,",exact after whitespace normalization
+odyssey-08-Q01,research/odyssey/book-08.md,sources/odyssey-08.txt,146,147,"the gods do not grace all men alike in speech, person, and understanding.",exact after whitespace normalization
+odyssey-08-Q02,research/odyssey/book-08.md,sources/odyssey-08.txt,279,279,"Ill deeds do not prosper, and the weak confound the strong.",exact after whitespace normalization
+odyssey-08-Q03,research/odyssey/book-08.md,sources/odyssey-08.txt,395,396,"do not forget me when you are safe at home again,",exact after whitespace normalization
+odyssey-08-Q04,research/odyssey/book-08.md,sources/odyssey-08.txt,449,451,"He wept as a woman weeps when she throws herself on the body of her husband who has fallen before his own city and people,",exact after whitespace normalization
+odyssey-08-Q05,research/odyssey/book-08.md,sources/odyssey-08.txt,499,500,in order that future generations might have something to sing about.,exact after whitespace normalization
+odyssey-09-Q01,research/odyssey/book-09.md,sources/odyssey-09.txt,21,23,"I am Ulysses son of Laertes, renowned among mankind for all manner of subtlety, so that my fame ascends to heaven.",exact after whitespace normalization
+odyssey-09-Q02,research/odyssey/book-09.md,sources/odyssey-09.txt,191,193,"It would have been indeed better if we had done so but I would not listen to them, for I wanted to see the owner himself, in the hope that he might give me a present.",exact after whitespace normalization
+odyssey-09-Q03,research/odyssey/book-09.md,sources/odyssey-09.txt,318,319,my name is Noman; this is what my father and mother and my friends have always called me.,exact after whitespace normalization
+odyssey-09-Q04,research/odyssey/book-09.md,sources/odyssey-09.txt,85,87,though they wept bitterly I forced them back to the ships and made them fast under the benches.,exact after whitespace normalization
+odyssey-10-Q01,research/odyssey/book-10.md,sources/odyssey-10.txt,46,48,"Thus they talked and evil counsels prevailed. They loosed the sack, whereupon the wind flew howling forth and raised a storm that carried us weeping out to sea and away from our own country.",exact after whitespace normalization
+odyssey-10-Q02,research/odyssey/book-10.md,sources/odyssey-10.txt,204,206,"They were like pigs—head, hair, and all, and they grunted just as pigs do; but their senses were the same as before, and they remembered everything.",exact after whitespace normalization
+odyssey-10-Q03,research/odyssey/book-10.md,sources/odyssey-10.txt,330,332,no man with any sense of what is right can think of either eating or drinking in your house until you have set his friends free,exact after whitespace normalization
+odyssey-10-Q04,research/odyssey/book-10.md,sources/odyssey-10.txt,403,404,"Sir, it is time you began to think about going home",exact after whitespace normalization
+odyssey-11-Q01,research/odyssey/book-11.md,sources/odyssey-11.txt,88,89,after much suffering you may get home if you can restrain yourself and your companions,exact after whitespace normalization
+odyssey-11-Q02,research/odyssey/book-11.md,sources/odyssey-11.txt,170,171,"Thrice I sprang towards her and tried to clasp her in my arms, but each time she flitted from my embrace as it were a dream or phantom",exact after whitespace normalization
+odyssey-11-Q03,research/odyssey/book-11.md,sources/odyssey-11.txt,402,404,I would rather be a paid servant in a poor man’s house and be above ground than king of kings among the dead.,exact after whitespace normalization
+odyssey-11-Q04,research/odyssey/book-11.md,sources/odyssey-11.txt,180,180,The sinews no longer hold the flesh and bones together,exact after whitespace normalization
+odyssey-12-Q01,research/odyssey/book-12.md,sources/odyssey-12.txt,146,147,"If I beg and pray you to set me free, then bind me more tightly still.",exact after whitespace normalization
+odyssey-12-Q02,research/odyssey/book-12.md,sources/odyssey-12.txt,194,195,"I said nothing about the awful monster Scylla, for I knew the men would not go on rowing if I did",exact after whitespace normalization
+odyssey-12-Q03,research/odyssey/book-12.md,sources/odyssey-12.txt,212,213,Scylla pounced down suddenly upon us and snatched up my six best men.,exact after whitespace normalization
+odyssey-12-Q04,research/odyssey/book-12.md,sources/odyssey-12.txt,274,275,"let us mind, therefore, and not touch the cattle, or we shall suffer for it",exact after whitespace normalization
+odyssey-13-Q01,research/odyssey/book-13.md,sources/odyssey-13.txt,222,223,"he began to answer, but he did not speak the truth, and made up a lying story in the instinctive wiliness of his heart.",exact after whitespace normalization
+odyssey-13-Q02,research/odyssey/book-13.md,sources/odyssey-13.txt,252,254,"can you not drop your tricks and your instinctive falsehood, even now that you are in your own country again?",exact after whitespace normalization
+odyssey-13-Q03,research/odyssey/book-13.md,sources/odyssey-13.txt,263,265,"tell no one, neither man nor woman, that you have come home again. Bear everything, and put up with every man’s insolence, without a word.",exact after whitespace normalization
+odyssey-13-Q04,research/odyssey/book-13.md,sources/odyssey-13.txt,301,301,the goddess dispersed the mist and the land appeared.,exact after whitespace normalization
+odyssey-14-Q01,research/odyssey/book-14.md,sources/odyssey-14.txt,55,55,all strangers and beggars are from Jove.,exact after whitespace normalization
+odyssey-14-Q02,research/odyssey/book-14.md,sources/odyssey-14.txt,77,78,on a dish of servant’s pork. The fat pigs have to go to the suitors,exact after whitespace normalization
+odyssey-14-Q03,research/odyssey/book-14.md,sources/odyssey-14.txt,137,138,"I hate a man, even as I hate hell fire, who lets his poverty tempt him into lying.",exact after whitespace normalization
+odyssey-14-Q04,research/odyssey/book-14.md,sources/odyssey-14.txt,342,343,"We have had trouble enough this long time feeding pigs, while others reap the fruit of our labour.",exact after whitespace normalization
+odyssey-15-Q01,research/odyssey/book-15.md,sources/odyssey-15.txt,29,30,The chief men among the suitors are lying in wait for you,exact after whitespace normalization
+odyssey-15-Q02,research/odyssey/book-15.md,sources/odyssey-15.txt,146,148,"The eagle came from the mountain where it was bred and has its nest, and in like manner Ulysses, after having travelled far and suffered much, will return to take his revenge",exact after whitespace normalization
+odyssey-15-Q03,research/odyssey/book-15.md,sources/odyssey-15.txt,227,228,"am an exile, for I have killed a man of my own race.",exact after whitespace normalization
+odyssey-15-Q04,research/odyssey/book-15.md,sources/odyssey-15.txt,465,466,he shall find no lack of hospitality.,exact after whitespace normalization
+odyssey-16-Q01,research/odyssey/book-16.md,sources/odyssey-16.txt,26,26,"So you are come, Telemachus, light of my eyes that you are.",exact after whitespace normalization
+odyssey-16-Q02,research/odyssey/book-16.md,sources/odyssey-16.txt,166,167,"I am no god, why should you take me for one? I am your father",exact after whitespace normalization
+odyssey-16-Q03,research/odyssey/book-16.md,sources/odyssey-16.txt,192,194,They were both so much moved that they cried aloud like eagles or vultures with crooked talons that have been robbed of their half fledged young by peasants.,exact after whitespace normalization
+odyssey-16-Q04,research/odyssey/book-16.md,sources/odyssey-16.txt,237,238,"If you see them ill treating me, steel your heart against my sufferings",exact after whitespace normalization
+odyssey-17-Q01,research/odyssey/book-17.md,sources/odyssey-17.txt,261,263,"As soon as he saw Ulysses standing there, he dropped his ears and wagged his tail, but he could not get close up to his master.",exact after whitespace normalization
+odyssey-17-Q02,research/odyssey/book-17.md,sources/odyssey-17.txt,282,282,Argos died as soon as he had recognised his master.,exact after whitespace normalization
+odyssey-17-Q03,research/odyssey/book-17.md,sources/odyssey-17.txt,394,395,"Your looks, my fine sir, are better than your breeding",exact after whitespace normalization
+odyssey-17-Q04,research/odyssey/book-17.md,sources/odyssey-17.txt,403,405,"Ulysses stood firm as a rock and the blow did not even stagger him, but he shook his head in silence as he brooded on his revenge.",exact after whitespace normalization
+odyssey-18-Q01,research/odyssey/book-18.md,sources/odyssey-18.txt,49,50,he who is victorious and proves himself to be the better man shall have his pick of the lot,exact after whitespace normalization
+odyssey-18-Q02,research/odyssey/book-18.md,sources/odyssey-18.txt,90,92,in the end he deemed it best to give the lighter blow for fear the Achaeans should begin to suspect who he was.,exact after whitespace normalization
+odyssey-18-Q03,research/odyssey/book-18.md,sources/odyssey-18.txt,247,248,You suitors are not wooing me after the custom of my country.,exact after whitespace normalization
+odyssey-18-Q04,research/odyssey/book-18.md,sources/odyssey-18.txt,255,257,"Ulysses was glad when he heard her trying to get presents out of the suitors, and flattering them with fair words which he knew she did not mean.",exact after whitespace normalization
+odyssey-19-Q01,research/odyssey/book-19.md,sources/odyssey-19.txt,133,135,"I used to keep working at my great web all day long, but at night I would unpick the stitches again by torch light.",exact after whitespace normalization
+odyssey-19-Q02,research/odyssey/book-19.md,sources/odyssey-19.txt,402,403,I did not know you till I had actually touched and handled you.,exact after whitespace normalization
+odyssey-19-Q03,research/odyssey/book-19.md,sources/odyssey-19.txt,466,467,"The geese are the suitors, and I am no longer an eagle, but your own husband",exact after whitespace normalization
+odyssey-19-Q04,research/odyssey/book-19.md,sources/odyssey-19.txt,477,479,"dreams are very curious and unaccountable things, and they do not by any means invariably come true.",exact after whitespace normalization
+odyssey-20-Q01,research/odyssey/book-20.md,sources/odyssey-20.txt,22,23,"Heart, be still, you had worse than this to bear on the day when the terrible Cyclops ate your brave companions",exact after whitespace normalization
+odyssey-20-Q02,research/odyssey/book-20.md,sources/odyssey-20.txt,78,80,"no matter how much people may grieve by day, they can put up with it so long as they can sleep at night",exact after whitespace normalization
+odyssey-20-Q03,research/odyssey/book-20.md,sources/odyssey-20.txt,111,113,"They have worn me out with labour of grinding meal for them, and I hope they may never have another dinner anywhere at all.",exact after whitespace normalization
+odyssey-20-Q04,research/odyssey/book-20.md,sources/odyssey-20.txt,315,317,the walls and roof-beams drip blood; the gate of the cloisters and the court beyond them are full of ghosts,exact after whitespace normalization
+odyssey-21-Q01,research/odyssey/book-21.md,sources/odyssey-21.txt,63,65,"whomsoever of you shall string it most easily and send his arrow through each one of twelve axes, him will I follow and quit this house",exact after whitespace normalization
+odyssey-21-Q02,research/odyssey/book-21.md,sources/odyssey-21.txt,288,290,people who persist in eating up the estate of a great chieftain and dishonouring his house must not expect others to think well of them.,exact after whitespace normalization
+odyssey-21-Q03,research/odyssey/book-21.md,sources/odyssey-21.txt,357,358,it sang sweetly under his touch like the twittering of a swallow.,exact after whitespace normalization
+odyssey-21-Q04,research/odyssey/book-21.md,sources/odyssey-21.txt,371,372,"I did not miss what I aimed at, and I was not long in stringing my bow.",exact after whitespace normalization
+odyssey-22-Q01,research/odyssey/book-22.md,sources/odyssey-22.txt,37,38,"have forced my women servants to lie with you, and have wooed my wife while I was still living.",exact after whitespace normalization
+odyssey-22-Q02,research/odyssey/book-22.md,sources/odyssey-22.txt,54,55,"Each one of us shall pay you a fine worth twenty oxen, and we will keep on giving you gold and bronze till your heart is softened.",exact after whitespace normalization
+odyssey-22-Q03,research/odyssey/book-22.md,sources/odyssey-22.txt,302,303,"the man is guiltless, do him no hurt; and we will spare Medon too",exact after whitespace normalization
+odyssey-22-Q04,research/odyssey/book-22.md,sources/odyssey-22.txt,397,398,even so did the women have to put their heads in nooses one after the other and die most miserably.,exact after whitespace normalization
+odyssey-22-Q05,research/odyssey/book-22.md,sources/odyssey-22.txt,402,403,There they cut off his nose and his ears; they drew out his vitals and gave them to the dogs raw,exact after whitespace normalization
+odyssey-23-Q01,research/odyssey/book-23.md,sources/odyssey-23.txt,105,106,"there are tokens with which we two are alone acquainted, and which are hidden from all others.",exact after whitespace normalization
+odyssey-23-Q02,research/odyssey/book-23.md,sources/odyssey-23.txt,172,174,"There was a young olive growing within the precincts of the house, in full vigour, and about as thick as a bearing-post.",exact after whitespace normalization
+odyssey-23-Q03,research/odyssey/book-23.md,sources/odyssey-23.txt,191,192,"We have suffered, both of us. Heaven has denied us the happiness of spending our youth, and of growing old, together",exact after whitespace normalization
+odyssey-23-Q04,research/odyssey/book-23.md,sources/odyssey-23.txt,208,209,As the sight of land is welcome to men who are swimming towards the shore,exact after whitespace normalization
+odyssey-24-Q01,research/odyssey/book-24.md,sources/odyssey-24.txt,83,85,"Thus even in death your fame, Achilles, has not been lost, and your name lives evermore among all mankind.",exact after whitespace normalization
+odyssey-24-Q02,research/odyssey/book-24.md,sources/odyssey-24.txt,112,112,she meant to compass our destruction,exact after whitespace normalization
+odyssey-24-Q03,research/odyssey/book-24.md,sources/odyssey-24.txt,164,165,"The fame, therefore, of her virtue shall never die",exact after whitespace normalization
+odyssey-24-Q04,research/odyssey/book-24.md,sources/odyssey-24.txt,280,281,"You gave me thirteen pear trees, ten apple trees, and forty fig trees",exact after whitespace normalization
+odyssey-24-Q05,research/odyssey/book-24.md,sources/odyssey-24.txt,460,461,"stop this warful strife, or Jove will be angry with you.",exact after whitespace normalization
+ulysses-01-Q01,research/ulysses/episode-01.md,sources/ulysses-01.txt,115,115,The snotgreen sea. The scrotumtightening sea.,exact after whitespace normalization
+ulysses-01-Q02,research/ulysses/episode-01.md,sources/ulysses-01.txt,953,954,"I am a servant of two masters, Stephen said, an English and an Italian.",exact after whitespace normalization
+ulysses-01-Q03,research/ulysses/episode-01.md,sources/ulysses-01.txt,1120,1120,Usurper.,exact after whitespace normalization
+ulysses-02-Q01,research/ulysses/episode-02.md,sources/ulysses-02.txt,180,180,The fox burying his grandmother under a hollybush.,exact after whitespace normalization
+ulysses-02-Q02,research/ulysses/episode-02.md,sources/ulysses-02.txt,554,554,"History, Stephen said, is a nightmare from which I am trying to awake.",exact after whitespace normalization
+ulysses-02-Q03,research/ulysses/episode-02.md,sources/ulysses-02.txt,510,511,"Mark my words, Mr Dedalus, he said. England is in the hands of the jews.",exact after whitespace normalization
+ulysses-03-Q01,research/ulysses/episode-03.md,sources/ulysses-03.txt,4,5,"Ineluctable modality of the visible: at least that if no more, thought through my eyes.",exact after whitespace normalization
+ulysses-03-Q02,research/ulysses/episode-03.md,sources/ulysses-03.txt,12,12,Shut your eyes and see.,exact after whitespace normalization
+ulysses-03-Q03,research/ulysses/episode-03.md,sources/ulysses-03.txt,23,23,Am I walking into eternity along Sandymount strand?,exact after whitespace normalization
+ulysses-04-Q01,research/ulysses/episode-04.md,sources/ulysses-04.txt,3,3,Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.,exact after whitespace normalization
+ulysses-04-Q02,research/ulysses/episode-04.md,sources/ulysses-04.txt,464,464,Metempsychosis?,exact after whitespace normalization
+ulysses-04-Q03,research/ulysses/episode-04.md,sources/ulysses-04.txt,173,174,Good puzzle would be cross Dublin without passing a pub.,exact after whitespace normalization
+ulysses-05-Q01,research/ulysses/episode-05.md,sources/ulysses-05.txt,327,327,A flower. I think it’s a. A yellow flower with flattened petals.,exact after whitespace normalization
+ulysses-05-Q02,research/ulysses/episode-05.md,sources/ulysses-05.txt,737,738,"Always passing, the stream of life, which in the stream of life we trace is dearer than them all.",exact after whitespace normalization
+ulysses-05-Q03,research/ulysses/episode-05.md,sources/ulysses-05.txt,743,744,"He foresaw his pale body reclined in it at full, naked, in a womb of warmth",exact after whitespace normalization
+ulysses-06-Q01,research/ulysses/episode-06.md,sources/ulysses-06.txt,1106,1107,In the midst of death we are in life. Both ends meet.,exact after whitespace normalization
+ulysses-06-Q02,research/ulysses/episode-06.md,sources/ulysses-06.txt,1168,1169,Every Friday buries a Thursday if you come to look at it.,exact after whitespace normalization
+ulysses-06-Q03,research/ulysses/episode-06.md,sources/ulysses-06.txt,1174,1174,Poor Dignam! His last lie on the earth in his box.,exact after whitespace normalization
+ulysses-07-Q01,research/ulysses/episode-07.md,sources/ulysses-07.txt,4,4,IN THE HEART OF THE HIBERNIAN METROPOLIS,exact after whitespace normalization
+ulysses-07-Q02,research/ulysses/episode-07.md,sources/ulysses-07.txt,687,687,Begone! he said. The world is before you.,exact after whitespace normalization
+ulysses-07-Q03,research/ulysses/episode-07.md,sources/ulysses-07.txt,1082,1082,Nightmare from which you will never awake.,exact after whitespace normalization
+ulysses-08-Q01,research/ulysses/episode-08.md,sources/ulysses-08.txt,13,13,Heart to heart talks.,exact after whitespace normalization
+ulysses-08-Q02,research/ulysses/episode-08.md,sources/ulysses-08.txt,83,84,The hungry famished gull Flaps o’er the waters dull.,exact after whitespace normalization
+ulysses-08-Q03,research/ulysses/episode-08.md,sources/ulysses-08.txt,834,834,A warm human plumpness settled down on his brain. His brain yielded.,exact after whitespace normalization
+ulysses-09-Q01,research/ulysses/episode-09.md,sources/ulysses-09.txt,1174,1175,"A father, Stephen said, battling against hopelessness, is a necessary evil.",exact after whitespace normalization
+ulysses-09-Q02,research/ulysses/episode-09.md,sources/ulysses-09.txt,1184,1185,"Fatherhood, in the sense of conscious begetting, is unknown to man.",exact after whitespace normalization
+ulysses-09-Q03,research/ulysses/episode-09.md,sources/ulysses-09.txt,1645,1646,The most beautiful book that has come out of our country in my time. One thinks of Homer.,exact after whitespace normalization
+ulysses-10-Q01,research/ulysses/episode-10.md,sources/ulysses-10.txt,4,5,"The superior, the very reverend John Conmee S. J. reset his smooth watch in his interior pocket as he came down the presbytery steps.",exact after whitespace normalization
+ulysses-10-Q02,research/ulysses/episode-10.md,sources/ulysses-10.txt,417,418,"A skiff, a crumpled throwaway, Elijah is coming, rode lightly down the Liffey, under Loopline bridge",exact after whitespace normalization
+ulysses-10-Q03,research/ulysses/episode-10.md,sources/ulysses-10.txt,1858,1859,"a pedestrian in a brown macintosh, eating dry bread, passed swiftly and unscathed across the viceroy’s path.",exact after whitespace normalization
+ulysses-11-Q01,research/ulysses/episode-11.md,sources/ulysses-11.txt,4,4,"Bronze by gold heard the hoofirons, steelyringing.",exact after whitespace normalization
+ulysses-11-Q02,research/ulysses/episode-11.md,sources/ulysses-11.txt,426,426,Jingle jaunty jingle.,exact after whitespace normalization
+ulysses-11-Q03,research/ulysses/episode-11.md,sources/ulysses-11.txt,89,89,All gone. All fallen.,exact after whitespace normalization
+ulysses-12-Q01,research/ulysses/episode-12.md,sources/ulysses-12.txt,1888,1889,A nation? says Bloom. A nation is the same people living in the same place.,exact after whitespace normalization
+ulysses-12-Q02,research/ulysses/episode-12.md,sources/ulysses-12.txt,1903,1903,"Ireland, says Bloom. I was born here. Ireland.",exact after whitespace normalization
+ulysses-12-Q03,research/ulysses/episode-12.md,sources/ulysses-12.txt,1974,1974,"Love, says Bloom. I mean the opposite of hatred.",exact after whitespace normalization
+ulysses-13-Q01,research/ulysses/episode-13.md,sources/ulysses-13.txt,4,5,The summer evening had begun to fold the world in its mysterious embrace.,exact after whitespace normalization
+ulysses-13-Q02,research/ulysses/episode-13.md,sources/ulysses-13.txt,230,230,Gerty MacDowell yearns in vain.,exact after whitespace normalization
+ulysses-13-Q03,research/ulysses/episode-13.md,sources/ulysses-13.txt,869,870,"Leopold Bloom (for it is he) stands silent, with bowed head before those young guileless eyes.",exact after whitespace normalization
+ulysses-14-Q01,research/ulysses/episode-14.md,sources/ulysses-14.txt,4,4,Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus.,exact after whitespace normalization
+ulysses-14-Q02,research/ulysses/episode-14.md,sources/ulysses-14.txt,6,6,"Send us bright one, light one, Horhorn, quickening and wombfruit.",exact after whitespace normalization
+ulysses-14-Q03,research/ulysses/episode-14.md,sources/ulysses-14.txt,1359,1360,we are all born in the same way but we all die in different ways.,exact after whitespace normalization
+ulysses-15-Q01,research/ulysses/episode-15.md,sources/ulysses-15.txt,2489,2490,"In the beginning was the word, in the end the world without end. Blessed be the eight beatitudes.",exact after whitespace normalization
+ulysses-15-Q02,research/ulysses/episode-15.md,sources/ulysses-15.txt,4682,4683,I pray for you in my other world. Get Dilly to make you that boiled rice every night after your brainwork.,exact after whitespace normalization
+ulysses-15-Q03,research/ulysses/episode-15.md,sources/ulysses-15.txt,4724,4724,Nothung!,exact after whitespace normalization
+ulysses-16-Q01,research/ulysses/episode-16.md,sources/ulysses-16.txt,780,781,"I’m tired of all them rocks in the sea, he said, and boats and ships. Salt junk all the time.",exact after whitespace normalization
+ulysses-16-Q02,research/ulysses/episode-16.md,sources/ulysses-16.txt,819,819,I hate roaming about.,exact after whitespace normalization
+ulysses-16-Q03,research/ulysses/episode-16.md,sources/ulysses-16.txt,2154,2154,Our lives are in peril tonight. Beware of the steamroller.,exact after whitespace normalization
+ulysses-17-Q01,research/ulysses/episode-17.md,sources/ulysses-17.txt,29,30,"Both were sensitive to artistic impressions, musical in preference to plastic or pictorial.",exact after whitespace normalization
+ulysses-17-Q02,research/ulysses/episode-17.md,sources/ulysses-17.txt,1416,1416,The heaventree of stars hung with humid nightblue fruit.,exact after whitespace normalization
+ulysses-17-Q03,research/ulysses/episode-17.md,sources/ulysses-17.txt,3095,3095,He rests. He has travelled.,exact after whitespace normalization
+ulysses-18-Q01,research/ulysses/episode-18.md,sources/ulysses-18.txt,1706,1706,the sea the sea crimson sometimes like fire,exact after whitespace normalization
+ulysses-18-Q02,research/ulysses/episode-18.md,sources/ulysses-18.txt,1713,1714,and then I asked him with my eyes to ask again yes,exact after whitespace normalization
+ulysses-18-Q03,research/ulysses/episode-18.md,sources/ulysses-18.txt,1716,1717,and yes I said yes I will Yes.,exact after whitespace normalization

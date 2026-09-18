@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": {
+    "name": "The Harbour",
+    "wordmark": "harbour",
+    "title": "The Harbour \u00b7 A reading edition",
+    "description": "An original two-chapter story demonstrating Ithaca Reader.",
+    "storageKey": "ithaca-starter-v1",
+    "lang": "en",
+    "direction": "ltr",
+    "footer": "A light kept for someone else.",
+    "searchPlaceholder": "Try lantern or waiting",
+    "typePreview": "At dusk, Mara carried the lantern down to the harbour."
+  },
+  "cover": {
+    "author": "An original example",
+    "title": "The Harbour",
+    "description": "Two short chapters. A story, a few notes, and room for your own reading.",
+    "caption": "A starter edition",
+    "editionLine": "Original demonstration text \u00b7 2026",
+    "start": "arrival"
+  },
+  "works": [
+    {
+      "id": "harbour",
+      "title": "The Harbour",
+      "unit": "Chapter",
+      "numbering": "arabic",
+      "author": "Ithaca Reader contributors",
+      "sourceLabel": "Original demonstration text",
+      "sourceNote": "This short, AI-assisted example is included for adaptation.",
+      "description": "Replace this story with a text you have permission to publish."
+    }
+  ],
+  "chapters": [
+    {
+      "id": "arrival",
+      "work": "harbour",
+      "number": 1,
+      "notes": "arrival.md",
+      "text": "arrival.txt"
+    },
+    {
+      "id": "departure",
+      "work": "harbour",
+      "number": 2,
+      "notes": "departure.md",
+      "text": "departure.txt"
+    }
+  ],
+  "about": "about.md",
+  "downloads": [
+    {
+      "file": "arrival.txt",
+      "filename": "arrival.txt",
+      "label": "Arrival"
+    },
+    {
+      "file": "departure.txt",
+      "filename": "departure.txt",
+      "label": "Departure"
+    }
+  ]
+}

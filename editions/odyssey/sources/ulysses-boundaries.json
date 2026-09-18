@@ -1,0 +1,110 @@
+[
+  {
+    "episode": 1,
+    "source_start_line": 75,
+    "source_end_line": 1198,
+    "path": "sources/ulysses-01.txt"
+  },
+  {
+    "episode": 2,
+    "source_start_line": 1199,
+    "source_end_line": 1870,
+    "path": "sources/ulysses-02.txt"
+  },
+  {
+    "episode": 3,
+    "source_start_line": 1871,
+    "source_end_line": 2507,
+    "path": "sources/ulysses-03.txt"
+  },
+  {
+    "episode": 4,
+    "source_start_line": 2508,
+    "source_end_line": 3252,
+    "path": "sources/ulysses-04.txt"
+  },
+  {
+    "episode": 5,
+    "source_start_line": 3253,
+    "source_end_line": 4004,
+    "path": "sources/ulysses-05.txt"
+  },
+  {
+    "episode": 6,
+    "source_start_line": 4005,
+    "source_end_line": 5468,
+    "path": "sources/ulysses-06.txt"
+  },
+  {
+    "episode": 7,
+    "source_start_line": 5469,
+    "source_end_line": 7171,
+    "path": "sources/ulysses-07.txt"
+  },
+  {
+    "episode": 8,
+    "source_start_line": 7172,
+    "source_end_line": 8792,
+    "path": "sources/ulysses-08.txt"
+  },
+  {
+    "episode": 9,
+    "source_start_line": 8793,
+    "source_end_line": 10531,
+    "path": "sources/ulysses-09.txt"
+  },
+  {
+    "episode": 10,
+    "source_start_line": 10532,
+    "source_end_line": 12405,
+    "path": "sources/ulysses-10.txt"
+  },
+  {
+    "episode": 11,
+    "source_start_line": 12406,
+    "source_end_line": 14369,
+    "path": "sources/ulysses-11.txt"
+  },
+  {
+    "episode": 12,
+    "source_start_line": 14370,
+    "source_end_line": 16939,
+    "path": "sources/ulysses-12.txt"
+  },
+  {
+    "episode": 13,
+    "source_start_line": 16940,
+    "source_end_line": 18454,
+    "path": "sources/ulysses-13.txt"
+  },
+  {
+    "episode": 14,
+    "source_start_line": 18455,
+    "source_end_line": 20204,
+    "path": "sources/ulysses-14.txt"
+  },
+  {
+    "episode": 15,
+    "source_start_line": 20205,
+    "source_end_line": 25732,
+    "path": "sources/ulysses-15.txt"
+  },
+  {
+    "episode": 16,
+    "source_start_line": 25733,
+    "source_end_line": 28025,
+    "path": "sources/ulysses-16.txt"
+  },
+  {
+    "episode": 17,
+    "source_start_line": 28026,
+    "source_end_line": 31142,
+    "path": "sources/ulysses-17.txt"
+  },
+  {
+    "episode": 18,
+    "source_start_line": 31143,
+    "source_end_line": 32867,
+    "path": "sources/ulysses-18.txt"
+  }
+]

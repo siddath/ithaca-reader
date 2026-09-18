@@ -1,0 +1,574 @@
+{
+  "version": 1,
+  "site": {
+    "name": "Ithaca",
+    "wordmark": "ithaca",
+    "title": "Ithaca · A reading of the Odyssey",
+    "description": "Homer’s Odyssey and James Joyce’s Ulysses: complete texts and close-reading companions.",
+    "storageKey": "ithaca-reading-v1",
+    "lang": "en",
+    "direction": "ltr",
+    "footer": "Homer’s Odyssey, read with attention.",
+    "searchPlaceholder": "Try hospitality, Athena, or the Sirens"
+  },
+  "cover": {
+    "author": "Homer",
+    "prefix": "The",
+    "title": "Odyssey",
+    "description": "The poem, its myths, and the questions it leaves with us.",
+    "caption": "Homer · Joyce",
+    "editionLine": "Samuel Butler’s translation · 1900",
+    "start": "odyssey-1",
+    "image": {
+      "src": "/images/mediterranean.jpg",
+      "alt": "Deep blue Mediterranean water stretching toward a distant Greek coastline",
+      "width": 1800,
+      "height": 2400
+    }
+  },
+  "navLink": {
+    "href": "/read/comparison",
+    "label": "Homer & Joyce"
+  },
+  "frontispiece": {
+    "image": {
+      "src": "/images/turner-ulysses.jpg",
+      "alt": "Turner’s painting of Ulysses sailing away from Polyphemus beneath an incandescent sky",
+      "width": 1920,
+      "height": 1250
+    },
+    "caption": "J. M. W. Turner, Ulysses deriding Polyphemus, 1829.",
+    "title": "The sea is only part of the story.",
+    "description": "Before the voyage, a son waits. After the voyage, a household must learn who has returned.",
+    "href": "/read/foundations",
+    "linkLabel": "Enter Homer’s world"
+  },
+  "works": [
+    {
+      "id": "odyssey",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "unit": "Book",
+      "numbering": "roman",
+      "sourceLabel": "Homer · Translated by Samuel Butler",
+      "sourceNote": "Butler uses Latin names: Ulysses is Odysseus, Minerva is Athena, and Jove is Zeus.",
+      "groups": [
+        {
+          "title": "The absent father",
+          "start": 1,
+          "end": 4
+        },
+        {
+          "title": "The stranger at sea",
+          "start": 5,
+          "end": 8
+        },
+        {
+          "title": "The wanderings",
+          "start": 9,
+          "end": 12
+        },
+        {
+          "title": "An island regained",
+          "start": 13,
+          "end": 16
+        },
+        {
+          "title": "The house under siege",
+          "start": 17,
+          "end": 20
+        },
+        {
+          "title": "Recognition & return",
+          "start": 21,
+          "end": 24
+        }
+      ],
+      "endLink": {
+        "href": "/read/comparison",
+        "label": "Read Homer alongside Joyce"
+      }
+    },
+    {
+      "id": "ulysses",
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "unit": "Episode",
+      "numbering": "roman",
+      "description": "Joyce’s Dublin day, read alongside Homer. The familiar episode names come from Joyce’s schemas.",
+      "sourceLabel": "James Joyce · Complete episode",
+      "sourceNote": "Spelling and punctuation follow the saved source edition."
+    },
+    {
+      "id": "guide",
+      "title": "Companions",
+      "author": "",
+      "unit": "Companion",
+      "numbering": "none",
+      "description": "Keep the world, recurring images, and differences between the works close at hand."
+    }
+  ],
+  "chapters": [
+    {
+      "id": "odyssey-1",
+      "work": "odyssey",
+      "number": 1,
+      "notes": "research/odyssey/book-01.md",
+      "text": "sources/odyssey-01.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-2",
+      "work": "odyssey",
+      "number": 2,
+      "notes": "research/odyssey/book-02.md",
+      "text": "sources/odyssey-02.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-3",
+      "work": "odyssey",
+      "number": 3,
+      "notes": "research/odyssey/book-03.md",
+      "text": "sources/odyssey-03.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-4",
+      "work": "odyssey",
+      "number": 4,
+      "notes": "research/odyssey/book-04.md",
+      "text": "sources/odyssey-04.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-5",
+      "work": "odyssey",
+      "number": 5,
+      "notes": "research/odyssey/book-05.md",
+      "text": "sources/odyssey-05.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-6",
+      "work": "odyssey",
+      "number": 6,
+      "notes": "research/odyssey/book-06.md",
+      "text": "sources/odyssey-06.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-7",
+      "work": "odyssey",
+      "number": 7,
+      "notes": "research/odyssey/book-07.md",
+      "text": "sources/odyssey-07.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-8",
+      "work": "odyssey",
+      "number": 8,
+      "notes": "research/odyssey/book-08.md",
+      "text": "sources/odyssey-08.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-9",
+      "work": "odyssey",
+      "number": 9,
+      "notes": "research/odyssey/book-09.md",
+      "text": "sources/odyssey-09.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-10",
+      "work": "odyssey",
+      "number": 10,
+      "notes": "research/odyssey/book-10.md",
+      "text": "sources/odyssey-10.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-11",
+      "work": "odyssey",
+      "number": 11,
+      "notes": "research/odyssey/book-11.md",
+      "text": "sources/odyssey-11.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-12",
+      "work": "odyssey",
+      "number": 12,
+      "notes": "research/odyssey/book-12.md",
+      "text": "sources/odyssey-12.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-13",
+      "work": "odyssey",
+      "number": 13,
+      "notes": "research/odyssey/book-13.md",
+      "text": "sources/odyssey-13.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-14",
+      "work": "odyssey",
+      "number": 14,
+      "notes": "research/odyssey/book-14.md",
+      "text": "sources/odyssey-14.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-15",
+      "work": "odyssey",
+      "number": 15,
+      "notes": "research/odyssey/book-15.md",
+      "text": "sources/odyssey-15.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-16",
+      "work": "odyssey",
+      "number": 16,
+      "notes": "research/odyssey/book-16.md",
+      "text": "sources/odyssey-16.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-17",
+      "work": "odyssey",
+      "number": 17,
+      "notes": "research/odyssey/book-17.md",
+      "text": "sources/odyssey-17.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-18",
+      "work": "odyssey",
+      "number": 18,
+      "notes": "research/odyssey/book-18.md",
+      "text": "sources/odyssey-18.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-19",
+      "work": "odyssey",
+      "number": 19,
+      "notes": "research/odyssey/book-19.md",
+      "text": "sources/odyssey-19.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-20",
+      "work": "odyssey",
+      "number": 20,
+      "notes": "research/odyssey/book-20.md",
+      "text": "sources/odyssey-20.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-21",
+      "work": "odyssey",
+      "number": 21,
+      "notes": "research/odyssey/book-21.md",
+      "text": "sources/odyssey-21.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-22",
+      "work": "odyssey",
+      "number": 22,
+      "notes": "research/odyssey/book-22.md",
+      "text": "sources/odyssey-22.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-23",
+      "work": "odyssey",
+      "number": 23,
+      "notes": "research/odyssey/book-23.md",
+      "text": "sources/odyssey-23.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "odyssey-24",
+      "work": "odyssey",
+      "number": 24,
+      "notes": "research/odyssey/book-24.md",
+      "text": "sources/odyssey-24.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-1",
+      "work": "ulysses",
+      "number": 1,
+      "notes": "research/ulysses/episode-01.md",
+      "text": "sources/ulysses-01.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-2",
+      "work": "ulysses",
+      "number": 2,
+      "notes": "research/ulysses/episode-02.md",
+      "text": "sources/ulysses-02.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-3",
+      "work": "ulysses",
+      "number": 3,
+      "notes": "research/ulysses/episode-03.md",
+      "text": "sources/ulysses-03.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-4",
+      "work": "ulysses",
+      "number": 4,
+      "notes": "research/ulysses/episode-04.md",
+      "text": "sources/ulysses-04.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-5",
+      "work": "ulysses",
+      "number": 5,
+      "notes": "research/ulysses/episode-05.md",
+      "text": "sources/ulysses-05.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-6",
+      "work": "ulysses",
+      "number": 6,
+      "notes": "research/ulysses/episode-06.md",
+      "text": "sources/ulysses-06.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-7",
+      "work": "ulysses",
+      "number": 7,
+      "notes": "research/ulysses/episode-07.md",
+      "text": "sources/ulysses-07.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-8",
+      "work": "ulysses",
+      "number": 8,
+      "notes": "research/ulysses/episode-08.md",
+      "text": "sources/ulysses-08.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-9",
+      "work": "ulysses",
+      "number": 9,
+      "notes": "research/ulysses/episode-09.md",
+      "text": "sources/ulysses-09.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-10",
+      "work": "ulysses",
+      "number": 10,
+      "notes": "research/ulysses/episode-10.md",
+      "text": "sources/ulysses-10.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-11",
+      "work": "ulysses",
+      "number": 11,
+      "notes": "research/ulysses/episode-11.md",
+      "text": "sources/ulysses-11.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-12",
+      "work": "ulysses",
+      "number": 12,
+      "notes": "research/ulysses/episode-12.md",
+      "text": "sources/ulysses-12.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-13",
+      "work": "ulysses",
+      "number": 13,
+      "notes": "research/ulysses/episode-13.md",
+      "text": "sources/ulysses-13.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-14",
+      "work": "ulysses",
+      "number": 14,
+      "notes": "research/ulysses/episode-14.md",
+      "text": "sources/ulysses-14.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-15",
+      "work": "ulysses",
+      "number": 15,
+      "notes": "research/ulysses/episode-15.md",
+      "text": "sources/ulysses-15.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-16",
+      "work": "ulysses",
+      "number": 16,
+      "notes": "research/ulysses/episode-16.md",
+      "text": "sources/ulysses-16.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-17",
+      "work": "ulysses",
+      "number": 17,
+      "notes": "research/ulysses/episode-17.md",
+      "text": "sources/ulysses-17.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "ulysses-18",
+      "work": "ulysses",
+      "number": 18,
+      "notes": "research/ulysses/episode-18.md",
+      "text": "sources/ulysses-18.txt",
+      "stripFirstLine": true
+    },
+    {
+      "id": "foundations",
+      "work": "guide",
+      "number": 1,
+      "notes": "foundations.md"
+    },
+    {
+      "id": "comparison",
+      "work": "guide",
+      "number": 2,
+      "notes": "comparison.md"
+    },
+    {
+      "id": "motifs",
+      "work": "guide",
+      "number": 3,
+      "notes": "motif-index.md"
+    },
+    {
+      "id": "joyce-motifs",
+      "work": "guide",
+      "number": 4,
+      "notes": "research/ulysses/motif-index.md"
+    },
+    {
+      "id": "reading-method",
+      "work": "guide",
+      "number": 5,
+      "notes": "reading-method.md"
+    }
+  ],
+  "about": "about.md",
+  "sectionLabels": {
+    "Story and the distribution of knowledge": "Story",
+    "Quotations to mark": "Quotations",
+    "Important passages and close reading": "Close reading",
+    "Myth and cultural context": "Mythology & context",
+    "Philosophical stakes": "Philosophy",
+    "Joyce connection — provisional": "Homer & Joyce",
+    "Questions for our reading": "Questions",
+    "What happens": "What happens",
+    "Important passages": "Close reading",
+    "Myth and social context": "Mythology & context",
+    "Philosophical and metaphorical analysis": "Philosophy",
+    "Joyce connection and questions": "Questions",
+    "Story and knowledge": "Story",
+    "Important passages and interpretation": "Close reading",
+    "Mythological and social context": "Mythology & context",
+    "Joyce comparison and questions": "Questions",
+    "Narrative and knowledge": "Story",
+    "Mythological context": "Mythology & context",
+    "Philosophical stakes and example": "Philosophy",
+    "Joyce and questions": "Questions",
+    "Example, Joyce and discussion": "Example, Joyce and discussion",
+    "Story": "Story",
+    "Philosophical stakes, example and Joyce": "Philosophy",
+    "Narrative": "Story",
+    "Myth, poetry and philosophy": "Mythology & context",
+    "What happens, and who knows what": "What happens, and who knows what",
+    "The passages to hold onto": "The passages to hold onto",
+    "Close readings": "Close readings",
+    "Motifs, links, and modern comparison": "Motifs, links, and modern comparison",
+    "Questions": "Questions",
+    "Provisional Joyce bridge": "Provisional Joyce bridge",
+    "Sources consulted": "Sources consulted",
+    "Story and technique": "Story",
+    "Short exact passages": "Quotations",
+    "Homeric echo and crucial difference": "Homer & Joyce",
+    "Reading question": "Questions",
+    "Sources": "Sources",
+    "Three different things called Homer, Odyssey and Ulysses": "Three different things called Homer, Odyssey and Ulysses",
+    "The story's order and the events' order": "The story's order and the events' order",
+    "The Trojan background": "The Trojan background",
+    "Divine generations: a wider framework": "Divine generations: a wider framework",
+    "Gods and powers we actually need": "Gods and powers we actually need",
+    "Monsters and boundaries": "Monsters and boundaries",
+    "The dead and the larger mythic network": "The dead and the larger mythic network",
+    "Philosophical vocabulary for a close reading": "Philosophy",
+    "What to mark while reading": "What to mark while reading",
+    "Source and method": "Source and method",
+    "Eighteen episodes and their Homeric pressure points": "Eighteen episodes and their Homeric pressure points",
+    "The major differences": "The major differences",
+    "Open comparison questions": "Questions",
+    "Further reading and traceability": "Further reading and traceability",
+    "1. Hospitality: who receives the stranger?": "1. Hospitality: who receives the stranger?",
+    "2. Homecoming: arrival, recognition and peace are different events": "2. Homecoming: arrival, recognition and peace are different events",
+    "3. Names, disguises and the limits of cleverness": "3. Names, disguises and the limits of cleverness",
+    "4. Recognition: scar, bed and orchard": "4. Recognition: scar, bed and orchard",
+    "5. Food, appetite and obligation": "5. Food, appetite and obligation",
+    "6. Songs and stories: pleasure, grief and authority": "6. Songs and stories: pleasure, grief and authority",
+    "7. Leadership, secrecy and responsibility": "7. Leadership, secrecy and responsibility",
+    "8. Gender, voice and shared intelligence": "8. Gender, voice and shared intelligence",
+    "9. Labour, enslavement and the cost of restoration": "9. Labour, enslavement and the cost of restoration",
+    "10. Mortality, grief and the value of living": "10. Mortality, grief and the value of living",
+    "11. Divine help and human agency": "11. Divine help and human agency",
+    "12. Revenge, justice and stopping": "12. Revenge, justice and stopping",
+    "Using the two indexes together": "Using the two indexes together",
+    "1. Home, threshold, and return": "1. Home, threshold, and return",
+    "2. Fatherhood, sonship, and inheritance": "2. Fatherhood, sonship, and inheritance",
+    "3. Hospitality, strangers, and exclusion": "3. Hospitality, strangers, and exclusion",
+    "4. Body, food, appetite, and consumption": "4. Body, food, appetite, and consumption",
+    "5. Language, style, and the making of history": "5. Language, style, and the making of history",
+    "6. Religion, ritual, and uncertain belief": "6. Religion, ritual, and uncertain belief",
+    "7. Nation, empire, and the outsider": "7. Nation, empire, and the outsider",
+    "8. Death, memory, and the persistence of the absent": "8. Death, memory, and the persistence of the absent",
+    "9. Water, sea, travel, and routes": "9. Water, sea, travel, and routes",
+    "10. Women, agency, and the gaze": "10. Women, agency, and the gaze",
+    "11. Music, voice, and knowledge": "11. Music, voice, and knowledge",
+    "Questions for guided reading": "Questions",
+    "The rhythm of a session": "The rhythm of a session",
+    "A simple annotation key": "A simple annotation key",
+    "Where our first conversation begins": "Where our first conversation begins"
+  },
+  "downloads": [
+    {
+      "file": "sources/odyssey-butler.txt",
+      "filename": "odyssey-butler.txt",
+      "label": "The Odyssey"
+    },
+    {
+      "file": "sources/ulysses-joyce.txt",
+      "filename": "ulysses-joyce.txt",
+      "label": "Ulysses"
+    }
+  ],
+  "checksums": "sources/checksums.json"
+}

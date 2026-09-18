@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+*.woff2 binary
+# Preserve downloaded texts exactly, including original line endings and whitespace.
+editions/odyssey/sources/*.txt -text -whitespace

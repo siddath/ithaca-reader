@@ -1,0 +1,16 @@
+name: Editorial correction
+description: Suggest a source-backed correction to the included reading notes.
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Work, chapter and section
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction and evidence
+      description: Include the passage or source edition, and distinguish factual corrections from alternative interpretations.
+    validations:
+      required: true
