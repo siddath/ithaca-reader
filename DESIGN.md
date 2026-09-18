@@ -218,6 +218,22 @@ A passage is a ruled figure with a larger blockquote in the selected reading fac
 
 The leaf holds the chapter heading, source disclosure and prose. Evidence labels remain inline sans-serif distinctions. The original-text view has an edition note and source-preserving paragraphs. Its opening paragraph uses the same text size as the rest of the prose. Source disclosures use native details/summary behavior and a rotated chevron in the open state.
 
+### Art gallery
+
+Whole artworks sit on the existing wash surface with quiet artist/date captions, Literata titles and short descriptions. The featured work leads into a gallery filtered by artwork type and a native book selector. Type buttons expose their pressed state; a status line reports the result count. An empty result offers Show all works. Hover changes the title to the reading accent and moves its arrow slightly; the images retain their own colors and proportions.
+
+### Artwork detail
+
+A large uncropped image precedes the reading essay. Its caption retains medium, collection, accession when supplied, and linked image credits and rights. The facts area connects the work to chapters and collection sources, explicitly distinguishing an episode depiction from a cultural comparison. The essay separates historical context, close looking, a labeled interpretation and a concluding question. Related works link onward without interrupting the essay.
+
+### Cultural themes and book connections
+
+Ruled native details/summary disclosures present a Literata theme title, muted lead and rotating chevron. Opening one reveals prose, chapter links and sources. The book-by-book entries use the same rules and typographic hierarchy, linking directly to the complete text and any associated artworks. Collection titles and introductions come from culture data; chapter labels follow the active edition.
+
+### Artwork enlargement
+
+Enlarge artwork opens a native modal on the reading leaf with a dimmed blue backdrop, caption and rights links. It starts with the whole image fitted to the available space and focuses the close button. Zoom in switches to an image at 200% of the stage width inside a scrollable, keyboard-focusable region; Fit to screen restores the fitted view. The toggle exposes its pressed state. The close button, Escape and a click on the dialog background dismiss it. Entry motion is brief and removed for reduced motion; zoom is an immediate state change.
+
 ## Do's and Don'ts
 
 ### Do:

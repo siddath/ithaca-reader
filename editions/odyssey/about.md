@@ -45,6 +45,12 @@ These notes are a reading companion, not a Greek-language critical edition. A ch
 
 Literata by TypeTogether is designed for sustained reading on screens. Manrope supplies navigation and the Clear reading option. Georgia is a system-serif option. The bundled fonts are self-hosted under the SIL Open Font License: [Literata license](/licenses/literata-license.txt) and [Manrope license](/licenses/manrope-license.txt).
 
+## Art & cultural context {#culture}
+
+[The Odyssey in art](/culture) brings together twelve paintings, prints, and ancient objects, eight cultural essays, and a guide through all 24 books. Each artwork page links to its museum record and image rights. The six Met images are [Open Access photographs](https://www.metmuseum.org/hubs/open-access), released under CC0. The other reproductions come from Wikimedia Commons with their public-domain or CC0 notices. Images are resized without cropping.
+
+Historical facts follow the cited museum and scholarly sources. Close-looking notes describe the selected image; connections to Homer are AI-assisted interpretations. A later painting is a response to the poem, while an ancient object may illuminate a practice without illustrating any episode. The collection contains full-story spoilers. [Complete image notices](https://github.com/siddath/ithaca-reader/blob/main/THIRD_PARTY_NOTICES.md) and [image provenance](https://github.com/siddath/ithaca-reader/blob/main/editions/odyssey/culture-sources.json) are available in the public repository.
+
 ## Your place, kept locally {#privacy}
 
 Reading position, appearance, chapter bookmarks and saved quotations live in your browser. There is no account, tracking script, or cross-device synchronisation. Clearing this site’s browser data removes the saved material. The hosting provider receives normal page requests.

@@ -6,6 +6,8 @@ A quiet, open-source reading edition for novels and epics. Read the original tex
 
 [Read the Odyssey edition](https://ithaca-odyssey.vercel.app) · [Make an edition](docs/authoring.md) · [Deploy](docs/deployment.md)
 
+[The Odyssey in art](https://ithaca-odyssey.vercel.app/culture) brings twelve paintings, prints and ancient objects into conversation with the poem. Each work has a credited image, collection sources, close-looking notes and chapter connections. Eight cultural essays and a guide to all 24 books connect the gallery to the whole story.
+
 The included edition has all 24 books of Homer's *Odyssey* in Samuel Butler's translation, all 18 episodes of James Joyce's *Ulysses*, 42 chapter commentaries, five reading companions and 156 source-checked quotations. A small original story demonstrates how to replace this collection without changing React code.
 
 ## Start locally
@@ -24,7 +26,7 @@ npm run build
 npm run preview
 ```
 
-The generated `dist/` directory is the deployable site. Keep a fallback to `index.html` for `/read/*` and `/about` routes; [Vercel configuration](vercel.json) is included.
+The generated `dist/` directory is the deployable site. Keep a fallback to `index.html` for `/read/*`, `/culture/*`, `/culture` and `/about` routes; [Vercel configuration](vercel.json) is included.
 
 ## Make it yours
 
@@ -48,6 +50,7 @@ To publish your edition, set `READER_EDITION` to its manifest path in your hosti
 - Chapter bookmarks, saved quotations and a remembered reading position.
 - Literata, Georgia and Manrope reading options, four sizes, day and night themes.
 - Commentary search and a global Texts menu.
+- An optional art and culture companion with whole-image views, filters, sources and chapter links.
 - Keyboard navigation, visible focus, reduced-motion support and responsive layouts.
 - Local-only preferences: no reader account, analytics script or cross-device sync.
 
