@@ -1,5 +1,7 @@
 # Ithaca Reader
 
+[![Reader checks](https://github.com/siddath/ithaca-reader/actions/workflows/ci.yml/badge.svg)](https://github.com/siddath/ithaca-reader/actions/workflows/ci.yml)
+
 A quiet, open-source reading edition for novels and epics. Read the original text first, then move through separate sections for story, quotations, close reading, context and questions.
 
 [Read the Odyssey edition](https://ithaca-odyssey.vercel.app) · [Make an edition](docs/authoring.md) · [Deploy](docs/deployment.md)
