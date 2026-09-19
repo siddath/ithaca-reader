@@ -1,0 +1,896 @@
+{
+  "title": "The Odyssey in art",
+  "description": "Ancient objects, painted journeys, and the culture behind the poem.",
+  "featured": "turner-ulysses-polyphemus",
+  "introduction": [
+    "The Odyssey has lived in more than words. Potters, painters and printmakers have returned to its strangers, enchanted islands and difficult homecomings. Looking at their work can make a familiar passage unfamiliar again.",
+    "Read these images in two directions: toward the poem, and toward the people who made them. A Classical vase, a seventeenth-century print and a painting by Turner belong to different worlds. Some depict an episode; others reveal a practice or material that helps us ask better questions. None is a photograph of Homer’s heroic past."
+  ],
+  "artworks": [
+    {
+      "id": "turner-ulysses-polyphemus",
+      "title": "Ulysses deriding Polyphemus – Homer’s Odyssey",
+      "artist": "Joseph Mallord William Turner",
+      "date": "1829",
+      "medium": "Oil on canvas",
+      "collection": "National Gallery, London",
+      "accession": "NG508",
+      "kind": "painting",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-9"
+      ],
+      "image": {
+        "src": "/images/culture/turner-ulysses-polyphemus.webp",
+        "thumbnail": "/images/culture/turner-ulysses-polyphemus-small.webp",
+        "alt": "A glowing sunrise behind Ulysses’s ship as he raises a flaming stake toward the giant Polyphemus on a cliff.",
+        "width": 1920,
+        "height": 1250
+      },
+      "summary": "A radiant escape, shadowed by the boast that will prolong the voyage.",
+      "context": "The National Gallery identifies the subject as Book IX: after blinding the Cyclops, Ulysses sails away while Polyphemus lies above the cliff. The catalogue records Turner’s title, 1829 date, oil medium, 132.5 × 203 cm dimensions, Turner Bequest (1856), and NG508. The episode belongs to Odysseus’s first-person account to the Phaeacians: escape succeeds, but his taunting disclosure of his name prepares the later curse. Turner adds luminous sea nymphs and flying fish, so this is an interpretation rather than a neutral transcription.",
+      "looking": "A ship cuts across a glowing horizon. Ulysses stands beneath a red banner, arms raised, holding the flaming olive stake toward the dark bulk of Polyphemus on the cliff. The sun burns through mist behind them; rigging, tiny sailors, sea creatures, and the red cloak create a crowded vertical flare against blue, pink, and gold atmosphere.",
+      "reading": "Victory and self-display occupy the same gesture. The raised arms look triumphant, yet the giant remains large enough to dominate the scene. Turner’s radiant dawn makes escape feel like revelation, while the red signals keep dangerous boasting visible inside celebration. The painting holds success and cost together without requiring one fixed moral lesson.",
+      "question": "Where does the painting make Ulysses look most powerful, and where does Polyphemus still control the composition?",
+      "sources": [
+        {
+          "label": "National Gallery, London · NG508",
+          "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey"
+        }
+      ],
+      "rights": {
+        "label": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Turner_-_Ulysses_deriding_Polyphemus_1829.jpg",
+        "credit": "National Gallery, London, via Wikimedia Commons."
+      }
+    },
+    {
+      "id": "circe-calyx-krater",
+      "title": "Terracotta calyx-krater (bowl for mixing wine and water)",
+      "artist": "Attributed to the Persephone Painter · Greek, Attic",
+      "date": "ca. 440 BCE",
+      "medium": "Terracotta; red-figure",
+      "collection": "The Metropolitan Museum of Art, New York",
+      "accession": "41.83",
+      "kind": "object",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-7",
+        "odyssey-8",
+        "odyssey-10"
+      ],
+      "image": {
+        "src": "/images/culture/circe-calyx-krater.webp",
+        "thumbnail": "/images/culture/circe-calyx-krater-small.webp",
+        "alt": "Black two-handled mixing bowl with orange figures in two bands; in the upper scene, animal-headed men follow Odysseus toward a retreating Circe.",
+        "width": 946,
+        "height": 1200
+      },
+      "summary": "Circe’s dangerous welcome, painted on a vessel for mixing wine.",
+      "context": "Made in Athens around 440 BCE, this red-figure mixing bowl is attributed to the Persephone Painter. A krater held wine diluted with water, an important part of the symposium, where privileged men drank, talked, and heard music or poetry. The museum identifies the upper scene as Odysseus pursuing Circe, with transformed companions behind him. Its imagery belongs to the Classical reception of epic.",
+      "looking": "The broad rim spreads above two stacked scenes. In the upper band, long-snouted heads disturb the otherwise human procession. Outstretched arms direct attention toward the running woman at the right. A chair breaks the line of bodies. Below, a second pursuit repeats the sense of movement on a smaller scale.",
+      "reading": "In Book 10, food and drink become instruments of captivity before Circe becomes a host and guide. That reversal gives a wine-mixing vessel a pointed connection to hospitality: what does a guest accept when accepting a cup? Compare the welcome in Books 7–8. The animal-headed men also expose artistic invention: the poem turns the companions into swine, while this painter includes another animal type.",
+      "question": "How do the repeated gestures make danger legible before you know the characters' names?",
+      "sources": [
+        {
+          "label": "The Met object record, 41.83",
+          "url": "https://www.metmuseum.org/art/collection/search/253627"
+        },
+        {
+          "label": "The Met: The Symposium in Ancient Greece",
+          "url": "https://www.metmuseum.org/essays/the-symposium-in-ancient-greece"
+        }
+      ],
+      "rights": {
+        "label": "The Met Open Access · CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art, New York. Gift of Amelia E. White, 1941."
+      }
+    },
+    {
+      "id": "lairesse-odysseus-calypso",
+      "title": "Odysseus and Calypso",
+      "artist": "Gerard de Lairesse",
+      "date": "c. 1680",
+      "medium": "Oil on canvas",
+      "collection": "Rijksmuseum, Amsterdam",
+      "accession": "SK-A-211",
+      "kind": "painting",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-5"
+      ],
+      "image": {
+        "src": "/images/culture/lairesse-odysseus-calypso.webp",
+        "thumbnail": "/images/culture/lairesse-odysseus-calypso-small.webp",
+        "alt": "Seated Calypso holds a staff beside armored Odysseus, while a small winged child touches his helmet.",
+        "width": 1226,
+        "height": 1600
+      },
+      "summary": "An intimate island scene offers a different view of Odysseus’s desire to leave.",
+      "context": "The Rijksmuseum dates this canvas to about 1680, identifies oil on canvas, and records SK-A-211. Its subject heading is the moment when Mercury orders Calypso to release Ulysses (Odyssey V); the museum marks the object public domain. In Homer, Calypso’s island shelters and detains Odysseus for years; Zeus’s message makes departure unavoidable. The title names both figures, but the collection record’s subject is the divine command that changes a private enclosure into the beginning of return.",
+      "looking": "Calypso sits at the lower left, holding a long staff, while an armored Odysseus reclines beside her. A small winged child reaches toward the crest of his helmet; another winged figure or putto appears behind the group. Dark trees, drapery, a peacock, and a pale blue cloth frame the bodies. The picture is a close, theatrical encounter rather than a wide landscape of departure.",
+      "reading": "The image makes captivity look intimate and sensuous before the catalogue’s Book V subject—Mercury’s order to release Odysseus—enters the reading. Odysseus’s armor keeps his martial identity present even as his body leans into Calypso’s space. The winged child complicates the scene with allegorical or erotic associations, but the reproduction alone cannot securely identify every figure. The interpretation therefore distinguishes visible motifs from the museum’s indexed episode.",
+      "question": "Which details belong to the enclosed life with Calypso, and which point toward Odysseus’s departure?",
+      "sources": [
+        {
+          "label": "Rijksmuseum, Amsterdam · SK-A-211",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-and-Calypso--6bfcc507d5625d026e8be4acd9c52b75"
+        }
+      ],
+      "rights": {
+        "label": "CC0 / public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Lairesse_-_Odysseus_bij_Calypso_Rijksmuseum_SK-A-211.jpg",
+        "credit": "Rijksmuseum, Amsterdam, via Wikimedia Commons."
+      }
+    },
+    {
+      "id": "amasis-textile-lekythos",
+      "title": "Terracotta lekythos (oil flask)",
+      "artist": "Attributed to the Amasis Painter · Greek, Attic",
+      "date": "ca. 550–530 BCE",
+      "medium": "Terracotta; black-figure",
+      "collection": "The Metropolitan Museum of Art, New York",
+      "accession": "31.11.10",
+      "kind": "object",
+      "relationship": "context",
+      "chapterIds": [
+        "odyssey-2",
+        "odyssey-5",
+        "odyssey-19",
+        "odyssey-24"
+      ],
+      "image": {
+        "src": "/images/culture/amasis-textile-lekythos.webp",
+        "thumbnail": "/images/culture/amasis-textile-lekythos-small.webp",
+        "alt": "Small black-figure oil flask showing women handling cloth and spinning equipment, with folded fabric on a low stand and a basket near their feet.",
+        "width": 800,
+        "height": 1200
+      },
+      "summary": "The tools and gestures of textile work behind the poem’s weaving metaphors.",
+      "context": "This small Athenian oil flask, attributed to the Amasis Painter, dates to about 550–530 BCE. Its painted circuit brings several stages of wool-working together: weighing, spinning, weaving, and folding finished cloth. The museum identifies a loom elsewhere around the body and explains that textile production occupied a central place in women's household work. The scene does not identify its workers by name.",
+      "looking": "In this view, dark figures stand against the warm clay. At the left, women hold a broad piece of fabric above a low support carrying folded material. Thin lines connect raised hands and spinning equipment on the right, while a basket anchors the scene near their feet. The curve lets part of the activity disappear from view.",
+      "reading": "Penelope's unfinished shroud in Books 2 and 19 depends on expertise, time, and repeated bodily work. This image gives substance to that labor before we treat weaving as a metaphor for cunning. It also invites attention to the household workers surrounding the poem's named rulers. The comparison remains analogical: these are Archaic Athenian images of textile work, with no identification as Penelope's workshop.",
+      "question": "Which small objects reveal stages of work that a finished garment would conceal?",
+      "sources": [
+        {
+          "label": "The Met object record and audio transcript, 31.11.10",
+          "url": "https://www.metmuseum.org/art/collection/search/253348"
+        }
+      ],
+      "rights": {
+        "label": "The Met Open Access · CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art, New York. Fletcher Fund, 1931."
+      }
+    },
+    {
+      "id": "sandrart-odysseus-nausicaa",
+      "title": "Odysseus and Nausicaa",
+      "artist": "Joachim von Sandrart the Elder",
+      "date": "c. 1630–1688",
+      "medium": "Oil on canvas",
+      "collection": "Rijksmuseum, Amsterdam",
+      "accession": "SK-A-4278",
+      "kind": "painting",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-6"
+      ],
+      "image": {
+        "src": "/images/culture/sandrart-odysseus-nausicaa.webp",
+        "thumbnail": "/images/culture/sandrart-odysseus-nausicaa-small.webp",
+        "alt": "Nausicaa and attendants encounter the nearly naked Odysseus at the edge of a wooded beach.",
+        "width": 2000,
+        "height": 1221
+      },
+      "summary": "A kneeling stranger meets a gathered group: the first gestures of welcome.",
+      "context": "The Rijksmuseum identifies this painting as the meeting of Nausicaa and Ulysses after his shipwreck, dates it broadly to c. 1630–1688, records oil on canvas, 103.5 × 168.5 cm, and gives SK-A-4278. Its subject is Book VI: the nearly naked stranger emerges from bushes and startles Nausicaa and her companions. Nausicaa’s food, clothing, and guidance turn exposure into the next stage of return. The museum marks the object public domain.",
+      "looking": "A dark landscape opens around a group of women and a dog on the left, a standing woman in blue at center, and a kneeling, nearly naked Odysseus at right. One attendant carries a bowl or tray of fruit. A distant small figure appears high in the sky or haze. Trees and open water separate the social group from the exposed stranger.",
+      "reading": "Hospitality appears as negotiated distance. Odysseus is visible and vulnerable but not yet absorbed into community; Nausicaa’s group controls the social center. Bright textiles and carried objects make care concrete. The image invites attention to how a stranger becomes legible through a community’s response, while leaving open whether the scene feels compassionate, comic, or tense.",
+      "question": "What visual boundary separates Odysseus from Nausicaa’s group, and how might the objects between them change the encounter?",
+      "sources": [
+        {
+          "label": "Rijksmuseum, Amsterdam · SK-A-4278",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-and-Nausicaa--36d44d38106f0cc843b11a1b12dc5c09"
+        }
+      ],
+      "rights": {
+        "label": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Joachim_von_Sandrart_-_Odysseus_und_Nausikaa_(Rijksmuseum_Amsterdam).jpg",
+        "credit": "Rijksmuseum, Amsterdam, via Wikimedia Commons."
+      }
+    },
+    {
+      "id": "penelope-return-plaque",
+      "title": "Terracotta plaque",
+      "artist": "Unknown maker · Greek, Melian",
+      "date": "ca. 460–450 BCE",
+      "medium": "Terracotta",
+      "collection": "The Metropolitan Museum of Art, New York",
+      "accession": "30.11.9",
+      "kind": "object",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-17",
+        "odyssey-19",
+        "odyssey-23",
+        "odyssey-24"
+      ],
+      "image": {
+        "src": "/images/culture/penelope-return-plaque.webp",
+        "thumbnail": "/images/culture/penelope-return-plaque-small.webp",
+        "alt": "Clay relief of Penelope seated with her head resting on one hand; Odysseus leans toward her from the right while three men watch from the left.",
+        "width": 1200,
+        "height": 919
+      },
+      "summary": "Penelope’s stillness holds the center of an ancient image of homecoming.",
+      "context": "The museum identifies this fifth-century BCE Melian relief as Odysseus returning to Penelope. It belongs to a distinctive group of terracotta plaques associated with Melos. The accompanying figures are identified as Telemachus, Laertes, and Eumaeus. No individual maker is named. This surviving image records a way of picturing the homecoming within Classical Greek visual culture.",
+      "looking": "Penelope occupies the center but folds inward, resting her tilted head on one hand. Odysseus bends toward her from the right; his extended arm bridges the space between them. Three figures cluster behind her, one seated low and two standing. Cracks cross the clay, and two small holes punctuate the background above her head.",
+      "reading": "Read this beside the guarded conversation in Book 19 and the recognition in Book 23. Arrival alone cannot restore a marriage: identity must become credible to the person who has waited. The relief compresses the wider homecoming into one gathering. In the poem, Odysseus meets Laertes separately in Book 24, so the father's presence here should be read as an artistic choice.",
+      "question": "Whose body seems most active, and whose stillness controls the emotional center?",
+      "sources": [
+        {
+          "label": "The Met object record and audio transcript, 30.11.9",
+          "url": "https://www.metmuseum.org/art/collection/search/253053"
+        }
+      ],
+      "rights": {
+        "label": "The Met Open Access · CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art, New York. Fletcher Fund, 1930."
+      }
+    },
+    {
+      "id": "castiglione-circe-companions",
+      "title": "Circe with the Companions of Ulysses Changed into Animals",
+      "artist": "Giovanni Benedetto Castiglione",
+      "date": "1650–1651",
+      "medium": "Etching on paper",
+      "collection": "Rijksmuseum, Amsterdam",
+      "accession": "RP-P-OB-12.200",
+      "kind": "painting",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-10"
+      ],
+      "image": {
+        "src": "/images/culture/castiglione-circe-companions.webp",
+        "thumbnail": "/images/culture/castiglione-circe-companions-small.webp",
+        "alt": "Circe sits by ruins with books and a wand while Odysseus’s transformed companions crowd the right side as animals.",
+        "width": 2000,
+        "height": 1454
+      },
+      "summary": "Books, a wand, and animal bodies give visible form to Circe’s power.",
+      "context": "The Rijksmuseum records this etching as Castiglione’s own design, made in Italy in 1650–1651, on paper, 218 × 309 mm, accession RP-P-OB-12.200. Its description identifies Circe seated by a ruin with a wand and magic books while Odysseus’s companions, newly transformed, appear as animals. The museum links the subject to Homer and marks the print public domain. In Book X, transformation exposes the danger of accepting Circe’s hospitality without protection; Hermes’s herb lets Odysseus resist and reverse it.",
+      "looking": "Circe sits near a ruined fragment, wand lifted, with books scattered at her feet. To the right, animal bodies and human movement gather around the aftermath. Ruin, foliage, and low horizon create a rough stage for the contrast between learned magical authority and bodies that have lost human form.",
+      "reading": "Knowledge is made material. Books and wand anchor Circe’s power, while transformed companions become a crowd rather than individualized heroes. The compression can make the episode feel like a crisis of recognition: who counts as a person when appearance and appetite change? This is a reading from image and poem, not a claim about Castiglione’s intention.",
+      "question": "How do the books, wand, ruin, and animal bodies distribute power across the print?",
+      "sources": [
+        {
+          "label": "Rijksmuseum, Amsterdam · RP-P-OB-12.200",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Circe-met-de-in-dieren-veranderde-reisgenoten-van-Odysseus--2fc8beaf14360d90f5350a14da9dc730"
+        }
+      ],
+      "rights": {
+        "label": "CC0 / public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Circe_met_de_in_dieren_veranderde_reisgenoten_van_Odysseus,_RP-P-OB-12.200.jpg",
+        "credit": "Rijksmuseum, Amsterdam, via Wikimedia Commons."
+      }
+    },
+    {
+      "id": "glass-libation-phiale",
+      "title": "Glass phiale (libation bowl)",
+      "artist": "Unknown maker · Greek, Eastern Mediterranean",
+      "date": "late 5th–early 4th century BCE",
+      "medium": "Glass; cast and cut",
+      "collection": "The Metropolitan Museum of Art, New York",
+      "accession": "69.11.6",
+      "kind": "object",
+      "relationship": "context",
+      "chapterIds": [
+        "odyssey-3",
+        "odyssey-7",
+        "odyssey-11"
+      ],
+      "image": {
+        "src": "/images/culture/glass-libation-phiale.webp",
+        "thumbnail": "/images/culture/glass-libation-phiale-small.webp",
+        "alt": "Monochrome side view of a shallow glass bowl with an outward-flaring rim, two horizontal grooves, and pointed petal reliefs around its lower wall.",
+        "width": 973,
+        "height": 487
+      },
+      "summary": "A ritual vessel invites attention to the gestures of receiving, praying, and pouring.",
+      "context": "The museum classifies this vessel as a Greek libation bowl from the eastern Mediterranean, made around the end of the fifth or beginning of the fourth century BCE. Its glass was cast and cut, and the catalogue describes twenty pointed petals and a rosette underneath. Repairs and replacement material are recorded. These details document the surviving object's manufacture and condition; they do not identify an ancient owner.",
+      "looking": "The photograph shows a low bowl with a broad, open mouth and no handles. Two grooves circle its wall above the pointed relief decoration. Light catches the rim while patches below interrupt the surface. This is a monochrome photograph; the catalogue's description of a faint green tint cannot be checked from this image alone.",
+      "reading": "At Pylos in Book 3, prayer and the passing of a cup belong to Telemachus's reception. Reading beside this bowl makes ritual a sequence of hand movements: receive, pray, pour, pass. Book 11 gives pouring a different setting, beside the dead. The connection concerns ritual action across different contexts; this later glass vessel is not the particular cup described in either episode.",
+      "question": "How might the wide rim and shallow body shape the gesture of pouring?",
+      "sources": [
+        {
+          "label": "The Met object record, 69.11.6",
+          "url": "https://www.metmuseum.org/art/collection/search/255281"
+        }
+      ],
+      "rights": {
+        "label": "The Met Open Access · CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art, New York. Purchase, Arthur Darby Nock Bequest, in honor of Gisela Richter, 1969."
+      }
+    },
+    {
+      "id": "carracci-sirens-rijks",
+      "title": "Odysseus and the Sirens",
+      "artist": "Unknown printmaker after Annibale Carracci",
+      "date": "17th century",
+      "medium": "Etching on paper",
+      "collection": "Rijksmuseum, Amsterdam",
+      "accession": "RP-P-1890-A-15254",
+      "kind": "painting",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-12"
+      ],
+      "image": {
+        "src": "/images/culture/carracci-sirens-rijks.webp",
+        "thumbnail": "/images/culture/carracci-sirens-rijks-small.webp",
+        "alt": "Odysseus is tied to the mast while his crew row the ship past the Sirens.",
+        "width": 1106,
+        "height": 1600
+      },
+      "summary": "The desire to listen becomes survivable through ropes and the crew’s labor.",
+      "context": "The Rijksmuseum identifies this print as an etching on paper, accession RP-P-1890-A-15254, showing Ulysses tied to the mast while passing the Sirens. The record notes that it follows a fresco by Annibale Carracci and marks the object public domain. In Book XII, Circe’s warning leads Odysseus to choose controlled exposure: crew stop their ears with wax and bind him so he can hear without steering toward the song. The scene is about collective safety as much as temptation.",
+      "looking": "The mast rises through the center of the vertical sheet, with a helmeted figure at its base and rowers, shields, oars, and a large sail filling the vessel below. Three lightly draped figures stand on the shore at left; birds cross the sky, and a rocky coastline closes the distance. The print’s catalogue identifies the subject as the Sirens, although their song is represented through the encounter’s setting rather than by a clearly labelled attribute.",
+      "reading": "Heroism shifts from resistance alone to designing constraints. Odysseus’s desire to hear is acknowledged, but the crew’s labor makes it survivable. The bound body can look humiliating or intelligent depending on attention. Either way, the picture gives the episode an ethical shape in which foresight depends on trusting others with the means to stop you.",
+      "question": "Who is doing the practical work that keeps the ship safe, and how does the mast organize your eye?",
+      "sources": [
+        {
+          "label": "Rijksmuseum, Amsterdam · RP-P-1890-A-15254",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-en-de-sirenen--ffcba44976c5d7e039f8500945a1cbcb"
+        }
+      ],
+      "rights": {
+        "label": "CC0 / public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Odysseus_en_de_sirenen,_RP-P-1890-A-15254.jpg",
+        "credit": "Rijksmuseum, Amsterdam, via Wikimedia Commons."
+      }
+    },
+    {
+      "id": "geometric-seafaring-krater",
+      "title": "Terracotta krater",
+      "artist": "Attributed to the Workshop of New York MMA 34.11.2 · Greek, Attic",
+      "date": "ca. 775 BCE",
+      "medium": "Terracotta",
+      "collection": "The Metropolitan Museum of Art, New York",
+      "accession": "34.11.2",
+      "kind": "object",
+      "relationship": "context",
+      "chapterIds": [
+        "odyssey-9",
+        "odyssey-11",
+        "odyssey-12",
+        "odyssey-24"
+      ],
+      "image": {
+        "src": "/images/culture/geometric-seafaring-krater.webp",
+        "thumbnail": "/images/culture/geometric-seafaring-krater-small.webp",
+        "alt": "Large footed clay krater covered in geometric bands; a small funeral panel sits above a frieze with a ship and marching shield-bearing figures.",
+        "width": 960,
+        "height": 1200
+      },
+      "summary": "Ships and mourning share the surface of a monumental grave marker.",
+      "context": "This monumental Athenian krater was made around 775 BCE. The museum interprets its scenes of a body laid out for mourning as evidence that it served as a grave marker. A lower frieze combines ships, combat, and warriors. Whether these scenes recall the deceased's experiences or an ancestral heroic expedition remains uncertain; the catalogue explicitly allows both possibilities. The image cannot securely be named as an Odyssey episode.",
+      "looking": "Dense geometric patterns surround a narrow funeral panel near the rim. Below it, a long ship lies beside a procession of figures carrying pinched, rounded shields. The contrast between tiny bodies and the vessel's broad surface asks the eye to alternate between pattern and story. Its tall pedestal gives the bowl an imposing silhouette.",
+      "reading": "In Books 11–12, Elpenor asks for burial and a marker so that his death will be remembered; Book 24 recalls the funeral and enduring fame of Achilles. This vessel offers a material comparison for making loss publicly visible. Its ships also complicate any pleasant picture of seafaring: mobility accompanies organized violence. Neither the grave's occupant nor the painted voyage has been identified as one of Homer's characters.",
+      "question": "What changes when you first read the decoration as pattern, then as remembered human actions?",
+      "sources": [
+        {
+          "label": "The Met object record, 34.11.2",
+          "url": "https://www.metmuseum.org/art/collection/search/253422"
+        },
+        {
+          "label": "The Metropolitan Museum Journal: Ships on a Wine-Dark Sea in the Age of Homer",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Ships_on_a_Wine_Dark_Sea_in_the_Age_of_Homer_The_Metropolitan_Museum_Journal_v_35_2000.pdf"
+        }
+      ],
+      "rights": {
+        "label": "The Met Open Access · CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art, New York. Fletcher Fund, 1934."
+      }
+    },
+    {
+      "id": "van-thulden-penelope-reunion",
+      "title": "Odysseus and Penelope on Their Way to Bed",
+      "artist": "Theodoor van Thulden, after Francesco Primaticcio and Nicolò dell’Abate",
+      "date": "1633",
+      "medium": "Etching and engraving on paper",
+      "collection": "Rijksmuseum, Amsterdam",
+      "accession": "BI-1883-1235-50",
+      "kind": "painting",
+      "relationship": "episode",
+      "chapterIds": [
+        "odyssey-23"
+      ],
+      "image": {
+        "src": "/images/culture/van-thulden-penelope-reunion.webp",
+        "thumbnail": "/images/culture/van-thulden-penelope-reunion-small.webp",
+        "alt": "Odysseus and Penelope move through an interior toward a curtained bed as a central figure carries a torch.",
+        "width": 1944,
+        "height": 1600
+      },
+      "summary": "A torchlit procession turns recognition into the prospect of rest.",
+      "context": "The Rijksmuseum records this 1633 album leaf as an etching and engraving on paper by Theodoor van Thulden, after designs associated with Primaticcio and Nicolò dell’Abate, accession BI-1883-1235-50. Its subject is Book XXIII: after recognition and reconciliation, Odysseus and Penelope go toward bed while a servant leads with a candle and the bed is prepared. The museum marks the print public domain. It belongs to Les Travaux d’Ulysse, presenting reunion as one staged chapter in an extended cycle.",
+      "looking": "A torch-bearing figure stands near the center of the interior while Odysseus and Penelope move together at right, surrounded by attendants. At left, a bed or curtained sleeping space recedes behind another figure. Columns, tiled floor, and the bright flame organize the crowded room. The image is an album leaf with printed text below, so its page, frame, and caption are part of what a viewer sees.",
+      "reading": "The print turns reunion into a public, ceremonial passage toward privacy. The Rijksmuseum describes the torch-bearer as a servant and the background action as bed preparation; the figure’s exact allegorical identity is not asserted here. The crowded attendants make recognition social, while the dark sleeping space points beyond spectacle. The close reading remains grounded in the visible torch, bed, and procession rather than inventing an intention for van Thulden.",
+      "question": "How does the torch-bearing figure and the curtained bed turn the couple’s reunion into a procession?",
+      "sources": [
+        {
+          "label": "Rijksmuseum, Amsterdam · BI-1883-1235-50",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-en-Penelope-op-weg-naar-bed--600886f3a19288d769027143cd7dbe99"
+        }
+      ],
+      "rights": {
+        "label": "CC0 / public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Odysseus_en_Penelope_op_weg_naar_bed_Les_Travaux_d%27Ulysse_(serietitel)_De_werken_van_Odysseus_(serietitel),_BI-1883-1235-50.jpg",
+        "credit": "Rijksmuseum, Amsterdam, via Wikimedia Commons."
+      }
+    },
+    {
+      "id": "odyssey-papyrus",
+      "title": "Papyrus fragment with lines from Homer's Odyssey",
+      "artist": "Unknown scribe · Greek, Ptolemaic",
+      "date": "ca. 285–250 BCE",
+      "medium": "Papyrus",
+      "collection": "The Metropolitan Museum of Art, New York",
+      "accession": "09.182.50",
+      "kind": "object",
+      "relationship": "context",
+      "chapterIds": [
+        "odyssey-8",
+        "odyssey-20"
+      ],
+      "image": {
+        "src": "/images/culture/odyssey-papyrus.webp",
+        "thumbnail": "/images/culture/odyssey-papyrus-small.webp",
+        "alt": "Narrow, ragged strip of tan papyrus bearing rows of dark Greek writing, interrupted by missing sections and exposed fibers.",
+        "width": 1200,
+        "height": 1200
+      },
+      "summary": "A fragment of Book XX preserves evidence of the poem’s changing written text.",
+      "context": "Copied in the early Ptolemaic period, this papyrus preserves part of Book 20. The museum reports that it includes three lines absent from the standard text transmitted today. That difference provides direct evidence of textual variation in the third century BCE. The record also places Homeric scholarship within the collecting and editorial work associated with Alexandria. The individual who wrote this fragment is unknown.",
+      "looking": "The surviving strip is tall and irregular, with projecting scraps at the top and broad losses along one side. Dark letters line up in rows across pale fibers. Near the bottom, writing gives way to torn strands and larger gaps. The material makes absence visible: a reader must distinguish a surviving mark from a missing piece.",
+      "reading": "Book 8 stages storytelling before an audience; this object preserves the poem through writing. Together they prompt a question about what changes when a performed story becomes a copied, edited text. Open Book 20 with that history in mind. The extra lines establish a variant witness, not an automatically more authentic version, and this fragment cannot by itself reconstruct the poem's earliest form.",
+      "question": "How does seeing damaged writing alter your sense of the complete text on the screen?",
+      "sources": [
+        {
+          "label": "The Met object record, 09.182.50",
+          "url": "https://www.metmuseum.org/art/collection/search/248134"
+        }
+      ],
+      "rights": {
+        "label": "The Met Open Access · CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art, New York. Gift of Egypt Exploration Fund, 1909."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "song",
+      "title": "A poem made to be heard",
+      "lead": "Memory, performance, and the authority to tell a story.",
+      "paragraphs": [
+        "The Odyssey belongs to a tradition of oral epic. Repeated phrases, epithets and familiar scenes support a poetry made in and for performance. Scholars disagree about how that tradition became the written text we inherit; “Homer” is not a securely documented modern author biography. Gregory Nagy’s account offers one influential way to understand the relationship between oral tradition, performance and writing.",
+        "The poem stages this problem inside its own story. Phemius sings in the occupied household; Demodocus performs for the Phaeacians; Odysseus becomes the narrator of his own wanderings. In Book 8, a victor at Troy weeps while hearing the war made into song. As a reading, this unsettles the idea that heroic fame is simply a reward: the beautiful story can wound the person who lived it.",
+        "When looking at an image of a bard, a manuscript or an ancient text fragment, ask what kind of authority it represents. A surviving papyrus witnesses the poem’s later circulation. It cannot show us a single original performance."
+      ],
+      "chapterIds": [
+        "odyssey-1",
+        "odyssey-8",
+        "odyssey-9",
+        "odyssey-24"
+      ],
+      "sources": [
+        {
+          "label": "Gregory Nagy: oral traditions and authorship",
+          "url": "https://www-current.chs.harvard.edu/curated-article/gregory-nagy-oral-traditions-written-texts-and-questions-of-authorship/"
+        }
+      ]
+    },
+    {
+      "id": "hospitality",
+      "title": "The stranger at the door",
+      "lead": "Food, gifts, safety, and the obligations of a host.",
+      "paragraphs": [
+        "Watch the order of a welcome. In Book 1, Telemachus offers the stranger food and a seat before asking who they are. In Book 6, Nausicaa makes safety practical through clothing, food and directions. Eumaeus later shares what little he has. These scenes give xenia, the relationship between guest and host, a material form; it is more than a pleasant attitude.",
+        "Polyphemus eats his guests, while the suitors consume a house that is not theirs. The comparison is an interpretation of the poem’s repeated meals: both turn nourishment into predation. Odysseus also enters the Cyclops’s cave expecting gifts, so the story does not excuse every demand made by a guest.",
+        "Wine vessels help us imagine the work and hierarchy behind a feast. But a Classical symposium, an organized elite male drinking party, is not identical to a Homeric banquet. The Met’s account describes later conventions of mixing, serving and drinking. Use that evidence to sharpen questions about service and inclusion, not to reconstruct every detail of Alcinous’s hall."
+      ],
+      "chapterIds": [
+        "odyssey-1",
+        "odyssey-3",
+        "odyssey-6",
+        "odyssey-7",
+        "odyssey-9",
+        "odyssey-14",
+        "odyssey-17"
+      ],
+      "sources": [
+        {
+          "label": "The Met: the symposium in ancient Greece",
+          "url": "https://www.metmuseum.org/essays/the-symposium-in-ancient-greece"
+        }
+      ]
+    },
+    {
+      "id": "household",
+      "title": "The house and the loom",
+      "lead": "A home is a structure of work, memory, property and power.",
+      "paragraphs": [
+        "Penelope’s weaving delays a decision over the household’s future. She promises to finish a shroud for Laertes, then secretly undoes her work at night. Making and unmaking become ways of controlling time. This is a literary reading of the action, not a claim that weaving always symbolizes deception.",
+        "Textile production was skilled and necessary labor. A painted scene of spinning or weaving can return attention to hands, tools and workers that a summary of “the faithful wife” leaves out. Museum accounts of Classical Greek households place textile work among women’s responsibilities, but later Athenian social rules should not be projected wholesale onto Homer’s Ithaca.",
+        "The rooted bed in Book 23 turns craftsmanship into a test of shared knowledge. Odysseus describes a room built around a living olive tree. Penelope recognizes the maker through an intimate fact, not merely through his appearance. Read the bed with the shroud: one object anchors a relationship; the other keeps a forced decision unfinished."
+      ],
+      "chapterIds": [
+        "odyssey-2",
+        "odyssey-6",
+        "odyssey-19",
+        "odyssey-21",
+        "odyssey-23"
+      ],
+      "sources": [
+        {
+          "label": "The Met: women in Classical Greece",
+          "url": "https://www.metmuseum.org/essays/women-in-classical-greece"
+        }
+      ]
+    },
+    {
+      "id": "labor",
+      "title": "Who makes the household possible?",
+      "lead": "Enslavement, service and the unequal terms of belonging.",
+      "paragraphs": [
+        "Eumaeus tells how he was abducted as a child and sold; Eurycleia’s purchase is recalled near the poem’s beginning. They have histories and affections, but not the freedom of their owners. “Servant” can conceal the coercion that the story itself records. Keep status, loyalty and consent as different questions.",
+        "The return depends on people who tend animals, carry water, prepare food and preserve household knowledge. A useful reading of domestic art asks who appears as a named figure and who becomes background labor. In the reunion print, the candle-bearing attendant makes the couple’s movement possible even while attention settles on the married pair.",
+        "Book 22 makes this scrutiny urgent. The killing of the enslaved women cannot be made ethically harmless by calling it housekeeping or restoration. Read the poem’s allocation of speech and blame closely, and distinguish its social hierarchy from an obligation for the modern reader to endorse that hierarchy."
+      ],
+      "chapterIds": [
+        "odyssey-1",
+        "odyssey-14",
+        "odyssey-15",
+        "odyssey-19",
+        "odyssey-20",
+        "odyssey-22",
+        "odyssey-23"
+      ],
+      "sources": [
+        {
+          "label": "Homer, Odyssey Book 15, Butler translation",
+          "url": "https://classics.mit.edu/Homer/odyssey.15.xv.html"
+        },
+        {
+          "label": "Homer, Odyssey Book 22, Butler translation",
+          "url": "https://classics.mit.edu/Homer/odyssey.22.xxii.html"
+        }
+      ]
+    },
+    {
+      "id": "gods",
+      "title": "Gods in a world of practices",
+      "lead": "A prayer, an offering, an omen, a disputed command.",
+      "paragraphs": [
+        "Ancient Greek religion included many gods, local sanctuaries, festivals and repeated acts of offering. It did not rest on one exclusive sacred book. A vessel for pouring a libation belongs to a world of actions between people and gods, not only to an illustrated catalogue of myths.",
+        "In the Odyssey, divine help does not remove effort or conflict. Athena protects and disguises; Poseidon obstructs; Zeus weighs competing claims. The same gods participate in relationships and rivalries. Reducing Athena to “intelligence” may offer an allegorical reading, but it leaves out the goddess acting as a person within the narrative.",
+        "Book 12 tests the distance between knowing a prohibition and keeping it under pressure. The cattle belong to Helios, not simply to an interchangeable “sun god” from another retelling. In Book 24, Athena halts further violence. Whether that ending demonstrates justice, the limits of human settlement, or an uneasy settlement imposed by power remains a question for interpretation."
+      ],
+      "chapterIds": [
+        "odyssey-1",
+        "odyssey-3",
+        "odyssey-5",
+        "odyssey-12",
+        "odyssey-13",
+        "odyssey-20",
+        "odyssey-24"
+      ],
+      "sources": [
+        {
+          "label": "The Met: Greek gods and religious practices",
+          "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+        }
+      ]
+    },
+    {
+      "id": "sea",
+      "title": "The sea connects and divides",
+      "lead": "Travel, exchange, piracy and the limits of a map.",
+      "paragraphs": [
+        "The Mediterranean linked communities through sailing, trade and settlement. Greek art itself preserves evidence of exchange: materials, motifs and objects crossed political and linguistic boundaries. The Met’s account places expanding Greek maritime networks within the Geometric and Archaic periods; this is historical context, not a date-stamped itinerary for Odysseus.",
+        "The poem distinguishes different experiences of movement. A merchant seeks profit; a raider takes captives; a shipwrecked stranger asks for shelter; a returning warrior longs for a particular household. Eumaeus’s account in Book 15 makes the sea a route of abduction, while the Phaeacian voyage makes it a route home.",
+        "Treat proposed modern locations for fabulous islands as hypotheses. The poem is not a reliable navigation chart. Its story also doubles back: Books 9–12 recount earlier travels after the reader has already reached Phaeacia. An artwork may compress several moments into one scene, just as the poem makes remembered travel part of a present encounter."
+      ],
+      "chapterIds": [
+        "odyssey-5",
+        "odyssey-9",
+        "odyssey-10",
+        "odyssey-12",
+        "odyssey-13",
+        "odyssey-15"
+      ],
+      "sources": [
+        {
+          "label": "The Met: colonization, trade and Greek art",
+          "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "title": "The living owe the dead",
+      "lead": "Burial, grief and the doubtful comfort of lasting fame.",
+      "paragraphs": [
+        "Elpenor first asks for burial, not an abstract explanation of death. Anticleia tells her son what his absence has cost. Achilles’s shade prefers a lowly life on earth to sovereignty among the dead. Book 11 repeatedly gives the grand idea of an underworld a particular voice and an unfinished human claim.",
+        "Greek funerary art records acts of laying out, mourning, procession and remembrance. A Geometric grave marker is therefore evidence for a ritual and a commemorative object, not a portrait of Elpenor’s funeral. Its figures can help us notice the living community that gives a death public form.",
+        "As an interpretation, the Odyssey asks whether the name preserved in a song can compensate for the body lost. Achilles makes that exchange uncomfortable. Book 24 returns to the dead and to their families, so the cost of the restored household does not disappear when the marriage bed has been recognized."
+      ],
+      "chapterIds": [
+        "odyssey-4",
+        "odyssey-11",
+        "odyssey-12",
+        "odyssey-24"
+      ],
+      "sources": [
+        {
+          "label": "The Met: death, burial and the afterlife",
+          "url": "https://www.metmuseum.org/essays/death-burial-and-the-afterlife-in-ancient-greece"
+        }
+      ]
+    },
+    {
+      "id": "recognition",
+      "title": "Cunning, recognition and return",
+      "lead": "Being home is not the same as being known.",
+      "paragraphs": [
+        "Odysseus survives partly through metis: resourceful intelligence that can include disguise, fabrication and patient timing. “Nobody” allows escape from Polyphemus; announcing the famous name puts the voyage in danger again. The difference between a useful story and a destructive performance of identity runs through the whole poem.",
+        "In Ithaca, knowledge is distributed unevenly. Telemachus learns, Eurycleia feels the scar, the servants are tested, and Penelope asks about the bed. These scenes use different kinds of evidence: divine transformation, bodily memory, conduct and shared craft. A recognition picture selects one of those moments and may make a difficult process look instantaneous.",
+        "Return, or nostos, is consequently more than arrival on an island. It involves recovering a place among people whose lives continued during the absence. The poem’s final violence and commanded peace prevent the comforting claim that everything has simply become as it was. Read reunion with its costs still in view."
+      ],
+      "chapterIds": [
+        "odyssey-9",
+        "odyssey-13",
+        "odyssey-16",
+        "odyssey-19",
+        "odyssey-21",
+        "odyssey-22",
+        "odyssey-23",
+        "odyssey-24"
+      ],
+      "sources": [
+        {
+          "label": "Sheila Murnaghan: disguise and recognition",
+          "url": "https://www-current.chs.harvard.edu/sheila-murnaghan-disguise-and-recognition-in-the-odyssey-chapter-1/"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapterId": "odyssey-1",
+      "title": "A welcome in an occupied house",
+      "text": "Telemachus seats and feeds the disguised Athena while the suitors consume the estate. Watch who controls the food, the song and the right to speak.",
+      "themeIds": [
+        "hospitality",
+        "song",
+        "labor"
+      ]
+    },
+    {
+      "chapterId": "odyssey-2",
+      "title": "Time held on a loom",
+      "text": "Penelope’s shroud turns textile work into a delay. The assembly exposes how household disorder becomes a public problem.",
+      "themeIds": [
+        "household",
+        "recognition"
+      ]
+    },
+    {
+      "chapterId": "odyssey-3",
+      "title": "A meal offered to the gods",
+      "text": "Nestor’s sacrifice places Telemachus inside a public ritual and a memory of the war. Hospitality introduces him to a different model of authority.",
+      "themeIds": [
+        "gods",
+        "hospitality"
+      ]
+    },
+    {
+      "chapterId": "odyssey-4",
+      "title": "Luxury, stories and grief",
+      "text": "Helen and Menelaus remember Troy differently. Beautiful possessions and generous feasting coexist with loss; Proteus’s changes make knowledge something that must be held fast.",
+      "themeIds": [
+        "memory",
+        "hospitality"
+      ]
+    },
+    {
+      "chapterId": "odyssey-5",
+      "title": "Leaving an immortal enclosure",
+      "text": "Calypso’s island offers abundance while preventing return. Hermes’s message opens a route out, but Odysseus must build, sail and survive with his own body.",
+      "themeIds": [
+        "gods",
+        "sea"
+      ]
+    },
+    {
+      "chapterId": "odyssey-6",
+      "title": "Clothing a stranger",
+      "text": "Nausicaa’s laundry outing puts textile labor beside the possibility of welcome. Clothing, food and careful speech begin to turn a terrifying stranger into a guest.",
+      "themeIds": [
+        "household",
+        "hospitality"
+      ]
+    },
+    {
+      "chapterId": "odyssey-7",
+      "title": "Entering the hall",
+      "text": "Odysseus approaches Arete and Alcinous as a suppliant. The question is not only whether a palace is splendid, but whether its people will use their power to shelter him.",
+      "themeIds": [
+        "hospitality",
+        "gods"
+      ]
+    },
+    {
+      "chapterId": "odyssey-8",
+      "title": "The hero hears his own story",
+      "text": "Games and Demodocus’s songs test how fame works before an audience. Tears interrupt public celebration and force attention back to a war’s lived cost.",
+      "themeIds": [
+        "song",
+        "memory"
+      ]
+    },
+    {
+      "chapterId": "odyssey-9",
+      "title": "The danger of a name",
+      "text": "The Cyclops episode breaks the rules of a shared meal. Odysseus’s clever anonymity secures escape; his demand to be known gives the injured giant a target for his curse.",
+      "themeIds": [
+        "hospitality",
+        "recognition"
+      ]
+    },
+    {
+      "chapterId": "odyssey-10",
+      "title": "Bodies changed, trust broken",
+      "text": "The wind-bag, the Laestrygonian harbor and Circe’s cup turn seeming safety into danger. Compare how a later print and an ancient vase give visible form to transformation.",
+      "themeIds": [
+        "sea",
+        "recognition"
+      ]
+    },
+    {
+      "chapterId": "odyssey-11",
+      "title": "The claims of the dead",
+      "text": "Elpenor needs burial; Anticleia brings news of home; Achilles troubles the promise of glorious fame. Listen for individual concerns inside the great gathering of shades.",
+      "themeIds": [
+        "memory",
+        "song"
+      ]
+    },
+    {
+      "chapterId": "odyssey-12",
+      "title": "Knowledge under pressure",
+      "text": "The Sirens offer a fatal kind of knowing. Restraints, warnings and the taboo on Helios’s cattle ask whether foresight can survive desire, fear and hunger.",
+      "themeIds": [
+        "gods",
+        "sea"
+      ]
+    },
+    {
+      "chapterId": "odyssey-13",
+      "title": "An island made unfamiliar",
+      "text": "The sleeping arrival does not finish the return. Mist and disguise separate possession of the land from recognition within the household; even Phaeacian hospitality has a cost.",
+      "themeIds": [
+        "recognition",
+        "hospitality"
+      ]
+    },
+    {
+      "chapterId": "odyssey-14",
+      "title": "A poor host’s generosity",
+      "text": "Eumaeus shelters a beggar while worrying about his absent master. Measure his meal against the wealth being consumed in the palace.",
+      "themeIds": [
+        "hospitality",
+        "labor"
+      ]
+    },
+    {
+      "chapterId": "odyssey-15",
+      "title": "The sea as a route of abduction",
+      "text": "Eumaeus recounts how he was taken and sold. His history interrupts the adventure story with the experience of a child treated as a movable possession.",
+      "themeIds": [
+        "labor",
+        "sea"
+      ]
+    },
+    {
+      "chapterId": "odyssey-16",
+      "title": "A father made visible",
+      "text": "The reunion with Telemachus changes who knows the plan. Recognition does not yet make the household safe; it creates a small alliance within an unequal field of information.",
+      "themeIds": [
+        "recognition",
+        "household"
+      ]
+    },
+    {
+      "chapterId": "odyssey-17",
+      "title": "The beggar at his own door",
+      "text": "Argos, Eumaeus and the suitors respond differently to the disguised man. The threshold becomes a place to judge memory, care and violence.",
+      "themeIds": [
+        "hospitality",
+        "recognition"
+      ]
+    },
+    {
+      "chapterId": "odyssey-18",
+      "title": "Spectacle inside the house",
+      "text": "The fight with Irus turns poverty into entertainment. Penelope’s appearance and her negotiation over gifts expose a second struggle over public attention.",
+      "themeIds": [
+        "household",
+        "labor"
+      ]
+    },
+    {
+      "chapterId": "odyssey-19",
+      "title": "A scar interrupts a story",
+      "text": "Penelope questions the stranger while Eurycleia recognizes the body she once tended. The scar and the fabricated life place different kinds of evidence beside each other.",
+      "themeIds": [
+        "recognition",
+        "labor"
+      ]
+    },
+    {
+      "chapterId": "odyssey-20",
+      "title": "The household before the rupture",
+      "text": "Work, omens and suppressed anger fill a waiting day. The surviving papyrus reminds us that even these domestic details reached us through fragile material copies.",
+      "themeIds": [
+        "song",
+        "gods",
+        "labor"
+      ]
+    },
+    {
+      "chapterId": "odyssey-21",
+      "title": "An object that remembers its maker",
+      "text": "The bow makes expertise visible. Like the bed later, a familiar object can hold knowledge that a changed face cannot supply.",
+      "themeIds": [
+        "recognition",
+        "household"
+      ]
+    },
+    {
+      "chapterId": "odyssey-22",
+      "title": "The cost of restoration",
+      "text": "The killing of the suitors is followed by the punishment of enslaved people. Keep violence and unequal power visible when the narrative calls the house reclaimed.",
+      "themeIds": [
+        "labor",
+        "recognition"
+      ]
+    },
+    {
+      "chapterId": "odyssey-23",
+      "title": "A room built around a tree",
+      "text": "Penelope’s test makes shared knowledge decisive. Art can show the couple’s intimacy, but the poem first requires proof of a life they built together.",
+      "themeIds": [
+        "household",
+        "recognition"
+      ]
+    },
+    {
+      "chapterId": "odyssey-24",
+      "title": "Peace after the homecoming",
+      "text": "The shades, Laertes and the dead suitors’ families extend the story beyond the marriage bed. Athena’s command stops the feud; it does not erase the losses behind it.",
+      "themeIds": [
+        "memory",
+        "gods",
+        "recognition"
+      ]
+    }
+  ]
+}

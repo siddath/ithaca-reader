@@ -2,7 +2,7 @@ import { defineConfig } from '@playwright/test';
 const external=process.env.BASE_URL;
 export default defineConfig({
   testDir:'./tests',
-  testIgnore:process.env.READER_TEST_EDITION==='starter'?['**/reader.spec.ts','**/refinement.spec.ts']:[],
+  testIgnore:process.env.READER_TEST_EDITION==='starter'?['**/reader.spec.ts','**/refinement.spec.ts','**/culture.spec.ts']:[],
   fullyParallel:false,
   workers:1,
   retries:process.env.CI?1:0,

@@ -1,4 +1,5 @@
 import data from './generated/edition.json';
+import type { Culture } from './culture-types';
 
 type Image = {src:string;alt:string;width:number;height:number};
 type Link = {href:string;label:string};
@@ -6,7 +7,7 @@ export type Work = {id:string;title:string;author?:string;unit:string;plural?:st
 type Edition = {
   site:{name:string;wordmark?:string;title:string;description:string;storageKey:string;lang?:string;direction?:'ltr'|'rtl';footer?:string;searchPlaceholder?:string;typePreview?:string};
   cover:{author?:string;prefix?:string;title:string;description?:string;caption?:string;editionLine?:string;start:string;image?:Image};
-  works:Work[];navLink?:Link;sectionLabels?:Record<string,string>;
+  works:Work[];culture?:Culture;navLink?:Link;sectionLabels?:Record<string,string>;
   frontispiece?:{image:Image;caption:string;title:string;description:string;href:string;linkLabel:string};
   downloads:{href:string;label:string}[];
   about:{title:string;intro:string;sections:{id:string;title:string;html:string}[]};

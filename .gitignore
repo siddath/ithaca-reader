@@ -13,3 +13,4 @@ evidence/
 coverage/
 *.tsbuildinfo
 .DS_Store
+.gstack/

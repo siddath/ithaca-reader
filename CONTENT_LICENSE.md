@@ -6,6 +6,7 @@ To the extent copyright exists, original literary commentary and the original st
 
 - `editions/odyssey/research/**/*.md`
 - `editions/odyssey/{foundations,comparison,motif-index,reading-method}.md`
+- Original commentary in `editions/odyssey/culture.json`; images and museum records retain their separate terms below.
 - `editions/starter/*.md` and `editions/starter/*.txt`
 
 [License summary](https://creativecommons.org/licenses/by/4.0/) · [Full legal terms](https://creativecommons.org/licenses/by/4.0/legalcode)

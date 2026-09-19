@@ -6,6 +6,7 @@ import '@fontsource-variable/literata/standard-italic.css';
 import '@fontsource-variable/manrope';
 import './style.css';
 import { edition, workFor, numberFor } from './edition';
+import Culture, { CulturePreview } from './Culture';
 
 type Section = {id:string;title:string;html:string;text:string};
 type Entry = {id:string;work:string;number:number;title:string;words:number;minutes:number;quoteCount:number;search:string;sections:{id:string;title:string}[]};
@@ -91,7 +92,7 @@ function App(){
     if(!writeStore('preferences',preferences))setStorageIssue(true);
   },[preferences]);
   useEffect(()=>{
-    if(!chapterId){setChapter(null);document.title=edition.site.title;return;}
+    if(!chapterId){setChapter(null);return;}
     setChapter(null);setChapterError(false);
     const c=new AbortController();
     fetch(`/content/${encodeURIComponent(chapterId)}.json`,{signal:c.signal}).then(r=>{if(!r.ok)throw Error();return r.json();})
@@ -99,6 +100,12 @@ function App(){
       .catch(e=>{if(e.name!=='AbortError')setChapterError(true);});
     return()=>c.abort();
   },[chapterId]);
+  useEffect(()=>{
+    if(chapterId)return;
+    const culture=edition.culture;
+    const art=culture?.artworks.find(a=>path===`/culture/${a.id}`);
+    document.title=culture&&path.startsWith('/culture')?`${art?.title??culture.title} · Art & culture`:edition.site.title;
+  },[path,chapterId]);
   useEffect(()=>{
     if(chapterId||!library.length)return;
     const frame=requestAnimationFrame(()=>{
@@ -205,6 +212,7 @@ function App(){
       <a className="wordmark" href="/" aria-label={`${edition.site.name}, home`}>{edition.site.wordmark??edition.site.name}<span className="wordmark-dot">.</span></a>
       <nav className="top-nav" aria-label="Main navigation">
         <button onClick={()=>{setCollection(edition.works[0].id);setPanel('contents');}}>Texts</button>
+        {edition.culture&&<a href="/culture" className="culture-nav" aria-label="Art & culture" aria-current={path.startsWith("/culture")?"page":undefined}>Art<span className="culture-nav-extra"> & culture</span></a>}
         {edition.navLink&&<a href={edition.navLink.href} className="comparison-nav">{edition.navLink.label}</a>}
         <button onClick={()=>setPanel('saved')} className="saved-nav" aria-label="Saved chapters and passages">Saved</button>
         <button onClick={()=>setPanel('search')} className="icon-button" aria-label="Search the reading edition"><MagnifyingGlass size={20}/></button>
@@ -224,8 +232,9 @@ function App(){
         <section className="contents-section" aria-labelledby="contents-heading"><div className="section-heading"><h2 id="contents-heading">Contents</h2><div className="work-tabs" aria-label="Choose a work">{edition.works.map(w=><button key={w.id} aria-pressed={collection===w.id} onClick={()=>setCollection(w.id)}>{w.title}</button>)}</div></div>
           {chosenWork.groups?.length?<div className="contents-grid">{chosenWork.groups.map(({title:name,start,end})=><div className="chapter-group" key={name}><h3>{name}<span>{numberFor(collection,start)}–{numberFor(collection,end)}</span></h3>{filtered.filter(e=>e.number>=start&&e.number<=end).map(e=><ChapterLink key={e.id} entry={e}/>)}</div>)}</div>:<><p className="collection-note">{chosenWork.description}</p><div className="alternate-contents">{filtered.map(e=><ChapterLink key={e.id} entry={e}/>)}</div></>}
         </section>
-        {edition.frontispiece&&<section className="frontispiece"><figure><img {...edition.frontispiece.image} loading="lazy"/><figcaption>{edition.frontispiece.caption} <a href="/about#images">Image credits</a></figcaption></figure><div><h2>{edition.frontispiece.title}</h2><p>{edition.frontispiece.description}</p><a className="text-link" href={edition.frontispiece.href}>{edition.frontispiece.linkLabel} <ArrowRight size={19}/></a></div></section>}
+        {edition.culture?<CulturePreview data={edition.culture}/>:edition.frontispiece&&<section className="frontispiece"><figure><img {...edition.frontispiece.image} loading="lazy"/><figcaption>{edition.frontispiece.caption} <a href="/about#images">Image credits</a></figcaption></figure><div><h2>{edition.frontispiece.title}</h2><p>{edition.frontispiece.description}</p><a className="text-link" href={edition.frontispiece.href}>{edition.frontispiece.linkLabel} <ArrowRight size={19}/></a></div></section>}
       </main>:
+      edition.culture&&(path==='/culture'||path.startsWith('/culture/'))?<Culture key={path} data={edition.culture} path={path} library={library}/>:
       path==='/about'?<About/>:
       isReader?<div className="reader-layout">
         <aside className="contents-rail" aria-label="Books in this work"><a className="back-link" href="/"><ArrowLeft size={16}/> The edition</a><h2>{workName}</h2><p>{activeWork.author}{activeWork.author?" · ":""}{sameWork.length} {activeWork.plural??`${activeWork.unit.toLowerCase()}s`}</p><nav>{sameWork.map(e=><a key={e.id} href={`/read/${e.id}`} aria-current={e.id===chapterId?'page':undefined}><span>{workFor(e.work).numbering==='none'?<BookOpen size={14}/>:numberFor(e.work,e.number)}</span><span>{e.title}</span></a>)}</nav><a className="rail-about" href="/about">Sources & edition notes</a></aside>
@@ -241,7 +250,7 @@ function App(){
             </div>}
           </nav>
           {chapterError?<div className="chapter-error"><h1>We couldn’t open this chapter.</h1><p>The link may be wrong, or your connection may have dropped.</p><a className="text-link" href="/">Return to contents <ArrowRight size={18}/></a></div>:!chapter?<div className="chapter-loading" aria-live="polite"><p>Opening the book…</p><div className="loading-line"/><div className="loading-line short"/></div>:<>
-            <header className="chapter-heading"><div className="chapter-topline"><p className="chapter-number">{mode==='text'?workName:label(chapter)}</p><button className="chapter-bookmark" aria-pressed={bookmarks.includes(chapter.id)} onClick={()=>toggleBookmark(chapter.id)} aria-label={bookmarks.includes(chapter.id)?'Remove chapter bookmark':'Bookmark this chapter'}><BookmarkSimple size={21} weight={bookmarks.includes(chapter.id)?'fill':'regular'}/><span>{bookmarks.includes(chapter.id)?'Bookmarked':'Bookmark'}</span></button></div><h1 id="chapter-title" tabIndex={-1}>{mode==='text'?label(chapter):chapter.title}</h1><p className="chapter-meta">{mode==='notes'?`${chapter.minutes} minute commentary · ${chapter.quoteCount?`${chapter.quoteCount} selected passages`:'A reading companion'}`:activeWork.sourceLabel??activeWork.author}</p></header>
+            <header className="chapter-heading"><div className="chapter-topline"><p className="chapter-number">{mode==='text'?workName:label(chapter)}</p><button className="chapter-bookmark" aria-pressed={bookmarks.includes(chapter.id)} onClick={()=>toggleBookmark(chapter.id)} aria-label={bookmarks.includes(chapter.id)?'Remove chapter bookmark':'Bookmark this chapter'}><BookmarkSimple size={21} weight={bookmarks.includes(chapter.id)?'fill':'regular'}/><span>{bookmarks.includes(chapter.id)?'Bookmarked':'Bookmark'}</span></button></div><h1 id="chapter-title" tabIndex={-1}>{mode==='text'?label(chapter):chapter.title}</h1><p className="chapter-meta">{mode==='notes'?`${chapter.minutes} minute commentary · ${chapter.quoteCount?`${chapter.quoteCount} selected passages`:'A reading companion'}`:activeWork.sourceLabel??activeWork.author}</p>{edition.culture?.chapters.some(c=>c.chapterId===chapter.id)&&<a className="chapter-culture-link" href={`/culture#culture-${chapter.id}`}>Art & cultural context <ArrowUpRight size={15}/></a>}</header>
             <article ref={articleRef} className={`prose ${mode==='text'?'original-prose':''}`} aria-label={mode==='notes'?'Chapter commentary':'Original literary text'}>
               {mode==='text'&&chapter.source?<><div className="translation-note" id="text" tabIndex={-1}>{activeWork.sourceNote}<a href="/about">Edition notes</a></div>{chapter.source.formatted.map((p,i)=><p id={`original-${i}`} className={p.verse?'verse':undefined} data-reading-anchor key={i} dangerouslySetInnerHTML={{__html:p.html}}/>)}</>:<><details className="source-note"><summary>Text, sources & reading key <CaretDown size={14}/></summary><div dangerouslySetInnerHTML={{__html:chapter.intro}}/><p><span className="evidence-label">Text</span> marks what happens; <span className="evidence-label">Interpretation</span> marks an argued reading. Other labels identify context, comparisons and open questions. <a href="/about#reading-key">Full reading key</a></p></details>{selectedSection&&<section key={selectedSection.id} id={selectedSection.id} tabIndex={-1}><h2>{selectedSection.title}</h2><div dangerouslySetInnerHTML={{__html:sectionHtml(selectedSection)}}/></section>}</>}
             </article>

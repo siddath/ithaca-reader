@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { decodeHTML } from 'entities';
+import { validateCulture } from './culture.mjs';
 import { marked } from 'marked';
 import sanitize from 'sanitize-html';
 
@@ -113,7 +114,8 @@ export function compileEdition(manifest){
     if(work.groups?.length&&numbers.some(n=>work.groups.filter(g=>n>=g.start&&n<=g.end).length!==1))throw Error(`Groups must cover every chapter exactly once: ${work.id}`);
   }
   const aboutFile=fileInside(root,config.about);const about=splitNotes(rewrite(fs.readFileSync(aboutFile,'utf8'),aboutFile));
-  const metadata={...config,chapters:undefined,downloads:(config.downloads??[]).map(d=>({label:d.label,href:`/texts/${d.filename}`})),about};
+  const culture=config.culture?validateCulture(JSON.parse(fs.readFileSync(fileInside(root,config.culture),'utf8')),library):undefined;
+  const metadata={...config,culture,chapters:undefined,downloads:(config.downloads??[]).map(d=>({label:d.label,href:`/texts/${d.filename}`})),about};
   return {root,config,metadata,library,chapters,quotes,downloads};
 }
 export function writeEdition(result,out,generated){

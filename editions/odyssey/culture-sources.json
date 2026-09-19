@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "turner-ulysses-polyphemus",
+      "collectionUrl": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey",
+      "originalImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Ulysses%20deriding%20Polyphemus%201829.jpg",
+      "rightsEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Turner_-_Ulysses_deriding_Polyphemus_1829.jpg",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "Metadata follows the museum record. Visual and literary commentary is original interpretation.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/turner-ulysses-polyphemus.webp",
+          "bytes": 419966,
+          "sha256": "91151467aefa5f854bb4b450390eff4d44219b16e952d2ad354b4485caeba4a7"
+        },
+        {
+          "path": "public/images/culture/turner-ulysses-polyphemus-small.webp",
+          "bytes": 51026,
+          "sha256": "0eb07438d3abaf71b3bedbf037bcff192657f147d50378288ffce2f317e35455"
+        }
+      ]
+    },
+    {
+      "id": "lairesse-odysseus-calypso",
+      "collectionUrl": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-and-Calypso--6bfcc507d5625d026e8be4acd9c52b75",
+      "originalImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lairesse%20-%20Odysseus%20bij%20Calypso%20Rijksmuseum%20SK-A-211.jpg",
+      "rightsEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Lairesse_-_Odysseus_bij_Calypso_Rijksmuseum_SK-A-211.jpg",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "Metadata follows the museum record. Visual and literary commentary is original interpretation.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/lairesse-odysseus-calypso.webp",
+          "bytes": 350810,
+          "sha256": "22b411c02b1ba8172929af8823f1eaabe7d0866a376ad54b70ef27355a8fc44a"
+        },
+        {
+          "path": "public/images/culture/lairesse-odysseus-calypso-small.webp",
+          "bytes": 56208,
+          "sha256": "47d8a8b5a8693ef1931cfebf0d4e106332cb3f5cc904398273a5a0dec4c071f4"
+        }
+      ]
+    },
+    {
+      "id": "sandrart-odysseus-nausicaa",
+      "collectionUrl": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-and-Nausicaa--36d44d38106f0cc843b11a1b12dc5c09",
+      "originalImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joachim%20von%20Sandrart%20-%20Odysseus%20und%20Nausikaa%20%28Rijksmuseum%20Amsterdam%29.jpg",
+      "rightsEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Joachim_von_Sandrart_-_Odysseus_und_Nausikaa_(Rijksmuseum_Amsterdam).jpg",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "Metadata follows the museum record. Visual and literary commentary is original interpretation.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/sandrart-odysseus-nausicaa.webp",
+          "bytes": 245862,
+          "sha256": "7085562686d9c0a5c2e305fc1c742850e0ab2949c61ffa898d43b1637656f6fc"
+        },
+        {
+          "path": "public/images/culture/sandrart-odysseus-nausicaa-small.webp",
+          "bytes": 30026,
+          "sha256": "d7a9088b37676de4c88bbdb56e51384eb11ffabdfa7a4302ed5a244ea34a4121"
+        }
+      ]
+    },
+    {
+      "id": "castiglione-circe-companions",
+      "collectionUrl": "https://www.rijksmuseum.nl/en/collection/object/Circe-met-de-in-dieren-veranderde-reisgenoten-van-Odysseus--2fc8beaf14360d90f5350a14da9dc730",
+      "originalImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Circe%20met%20de%20in%20dieren%20veranderde%20reisgenoten%20van%20Odysseus%2C%20RP-P-OB-12.200.jpg",
+      "rightsEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Circe_met_de_in_dieren_veranderde_reisgenoten_van_Odysseus,_RP-P-OB-12.200.jpg",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "Metadata follows the museum record. Visual and literary commentary is original interpretation.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/castiglione-circe-companions.webp",
+          "bytes": 1301230,
+          "sha256": "f37b904fec1187b1eab6dcca83a28f2a52437e49e10bc4133d93439ecdef3456"
+        },
+        {
+          "path": "public/images/culture/castiglione-circe-companions-small.webp",
+          "bytes": 163264,
+          "sha256": "62b2f7f194969601c9a3f8bb13e5ed0958e85d4226f3254b0bab92bcbd81e4cf"
+        }
+      ]
+    },
+    {
+      "id": "carracci-sirens-rijks",
+      "collectionUrl": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-en-de-sirenen--ffcba44976c5d7e039f8500945a1cbcb",
+      "originalImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odysseus%20en%20de%20sirenen%2C%20RP-P-1890-A-15254.jpg",
+      "rightsEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Odysseus_en_de_sirenen,_RP-P-1890-A-15254.jpg",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "Metadata follows the museum record. Visual and literary commentary is original interpretation.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/carracci-sirens-rijks.webp",
+          "bytes": 614622,
+          "sha256": "458a5aed0a9d6ffd1c0c1147f56f255794a7a3e964095133551bedbd82d2d28d"
+        },
+        {
+          "path": "public/images/culture/carracci-sirens-rijks-small.webp",
+          "bytes": 94150,
+          "sha256": "d9419f8d417c6791247421496f5edda8793795ba2ef79ed571cb97de0253f552"
+        }
+      ]
+    },
+    {
+      "id": "van-thulden-penelope-reunion",
+      "collectionUrl": "https://www.rijksmuseum.nl/en/collection/object/Odysseus-en-Penelope-op-weg-naar-bed--600886f3a19288d769027143cd7dbe99",
+      "originalImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odysseus%20en%20Penelope%20op%20weg%20naar%20bed%20Les%20Travaux%20d%27Ulysse%20%28serietitel%29%20De%20werken%20van%20Odysseus%20%28serietitel%29%2C%20BI-1883-1235-50.jpg",
+      "rightsEvidenceUrl": "https://commons.wikimedia.org/wiki/File:Odysseus_en_Penelope_op_weg_naar_bed_Les_Travaux_d%27Ulysse_(serietitel)_De_werken_van_Odysseus_(serietitel),_BI-1883-1235-50.jpg",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "Metadata follows the museum record. Visual and literary commentary is original interpretation.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/van-thulden-penelope-reunion.webp",
+          "bytes": 927166,
+          "sha256": "2a7b55cd761d7031f3716a7a6ed6279fd1a3b2ee6fa4e9f324fc957896420897"
+        },
+        {
+          "path": "public/images/culture/van-thulden-penelope-reunion-small.webp",
+          "bytes": 106828,
+          "sha256": "cf7f5413cf44761662ed868222b744a062a222f9a9266194cfc333b188bd3098"
+        }
+      ]
+    },
+    {
+      "id": "circe-calyx-krater",
+      "collectionUrl": "https://www.metmuseum.org/art/collection/search/253627",
+      "originalImageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/253627/540361/main-image",
+      "rightsEvidenceUrl": "https://www.metmuseum.org/art/collection/search/253627",
+      "rightsPolicyUrl": "https://www.metmuseum.org/hubs/open-access",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "The museum identifies the companion heads as a boar and a horse or mule. The specific original use of this individual krater at a symposium is not established by the cited object record; symposium use describes the vessel type and its wider cultural context.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/circe-calyx-krater.webp",
+          "bytes": 108062,
+          "sha256": "df31c0e4df019afa6b8186ed1cb06b149884bf220ce8812f981136c5dbb6d714"
+        },
+        {
+          "path": "public/images/culture/circe-calyx-krater-small.webp",
+          "bytes": 42704,
+          "sha256": "2ef4f1abdcbdd34eb02cdf460cc5acba5bcc384f315cd24dbd6ca812063b8d21"
+        }
+      ]
+    },
+    {
+      "id": "penelope-return-plaque",
+      "collectionUrl": "https://www.metmuseum.org/art/collection/search/253053",
+      "originalImageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/253053/537182/main-image",
+      "rightsEvidenceUrl": "https://www.metmuseum.org/art/collection/search/253053",
+      "rightsPolicyUrl": "https://www.metmuseum.org/hubs/open-access",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "The catalogue securely identifies the homecoming subject. The grouping is not a literal illustration of one complete scene in the surviving poem. No claim is made about the plaque's original display or ritual function, or the purpose of its two holes.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/penelope-return-plaque.webp",
+          "bytes": 250712,
+          "sha256": "3b649ef369468e4a27b4f3d8839ea59721d194057716b9a8fcfeb2c27bb8738e"
+        },
+        {
+          "path": "public/images/culture/penelope-return-plaque-small.webp",
+          "bytes": 102524,
+          "sha256": "f289cbbd8c984dee243bae69d3e49dc4de1d117c257fd76ae4fb9d6221ada5a9"
+        }
+      ]
+    },
+    {
+      "id": "amasis-textile-lekythos",
+      "collectionUrl": "https://www.metmuseum.org/art/collection/search/253348",
+      "originalImageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/253348/2236286/main-image",
+      "rightsEvidenceUrl": "https://www.metmuseum.org/art/collection/search/253348",
+      "rightsPolicyUrl": "https://www.metmuseum.org/hubs/open-access",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "The primary photograph shows cloth handling and spinning, not the upright loom on another side. The figures' legal status is not established here. The museum's suggestion that this and another flask may have been wedding gifts remains a suggestion and is not asserted in the entry.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/amasis-textile-lekythos.webp",
+          "bytes": 81226,
+          "sha256": "c210d595867719c462c43dcd01f9f9a628035d6b2398a4023710746cfb348ec2"
+        },
+        {
+          "path": "public/images/culture/amasis-textile-lekythos-small.webp",
+          "bytes": 29948,
+          "sha256": "e8d1691e83c7f18c6c96ade33afa851cf5a339181305bd027eb7d434aac2c08b"
+        }
+      ]
+    },
+    {
+      "id": "glass-libation-phiale",
+      "collectionUrl": "https://www.metmuseum.org/art/collection/search/255281",
+      "originalImageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/255281/530537/main-image",
+      "rightsEvidenceUrl": "https://www.metmuseum.org/art/collection/search/255281",
+      "rightsPolicyUrl": "https://www.metmuseum.org/hubs/open-access",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "The page identifies the vessel type as a libation bowl. Its exact ancient contents and use history are unknown. The photograph is monochrome, so the entry separates visible tonal effects from the catalogue's report of color.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/glass-libation-phiale.webp",
+          "bytes": 85552,
+          "sha256": "fd7a0c2962df9247e7b13e96a24c47d3a5a2e9e0fd636fcf4582587760f1cd75"
+        },
+        {
+          "path": "public/images/culture/glass-libation-phiale-small.webp",
+          "bytes": 52078,
+          "sha256": "96201c70d304112b08a8747adb5ccd096a64c365426a40ab4953a07c27fab8d1"
+        }
+      ]
+    },
+    {
+      "id": "geometric-seafaring-krater",
+      "collectionUrl": "https://www.metmuseum.org/art/collection/search/253422",
+      "originalImageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/253422/541180/main-image",
+      "rightsEvidenceUrl": "https://www.metmuseum.org/art/collection/search/253422",
+      "rightsPolicyUrl": "https://www.metmuseum.org/hubs/open-access",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "The funeral function and two possible readings of the narrative follow the museum record. The museum publication on this object discusses its ships in detail. Its historical proximity to early epic does not establish that the painted scenes illustrate the surviving Odyssey.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/geometric-seafaring-krater.webp",
+          "bytes": 153654,
+          "sha256": "c5ade78a0ced55b9794146cc0ad00dffbea2fe27adf75ab8a82eeb09f6452cdb"
+        },
+        {
+          "path": "public/images/culture/geometric-seafaring-krater-small.webp",
+          "bytes": 52398,
+          "sha256": "8706121d767ab238b973d4541a8de9d9fe12809708cc8973957be4bdcfd1a181"
+        }
+      ]
+    },
+    {
+      "id": "odyssey-papyrus",
+      "collectionUrl": "https://www.metmuseum.org/art/collection/search/248134",
+      "originalImageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/248134/534364/main-image",
+      "rightsEvidenceUrl": "https://www.metmuseum.org/art/collection/search/248134",
+      "rightsPolicyUrl": "https://www.metmuseum.org/hubs/open-access",
+      "checkedAt": "2026-09-18",
+      "evidenceNote": "The claim about three additional lines is the museum's catalogued finding; the entry does not independently transcribe or collate the Greek. The broader object record's claim that Alexandria was the first comprehensive public library is omitted because it is unnecessary to this entry and requires separate historical qualification.",
+      "transform": "Resized to fit without cropping; converted to WebP.",
+      "files": [
+        {
+          "path": "public/images/culture/odyssey-papyrus.webp",
+          "bytes": 88844,
+          "sha256": "f7463dbc05e9a14f713df333f0bf6a316c980656e29754990f5cc357069c274b"
+        },
+        {
+          "path": "public/images/culture/odyssey-papyrus-small.webp",
+          "bytes": 31398,
+          "sha256": "e57d912a3446fc9586133dce498d2ad9cbe327172819aa0f8dc8e24574baa3c9"
+        }
+      ]
+    }
+  ]
+}
