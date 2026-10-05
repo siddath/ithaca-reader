@@ -22,6 +22,13 @@ function route() {try{return decodeURI(location.pathname).replace(/\/$/,'')||'/'
 function label(e:Entry) {const work=workFor(e.work);return work.numbering==='none'?work.unit:`${work.unit} ${numberFor(e.work,e.number)}`;}
 function readingTop(){const bar=document.querySelector('.reader-toolbar');return bar?Math.max(0,bar.getBoundingClientRect().bottom)+16:90;}
 
+// URL fragments are external input, including when restored from history.
+function searchFragment(sectionId:string):string|null {
+  if(!sectionId.startsWith('find-'))return null;
+  try{return decodeURIComponent(sectionId.slice(5)).toLowerCase() || null;}
+  catch{return null;}
+}
+
 
 function App(){
   const [path,setPath]=useState(route);
@@ -133,7 +140,8 @@ function App(){
     setPreferences(p=>({...p,...patch}));
     if(anchor&&offset!==undefined)requestAnimationFrame(()=>{document.fonts.ready.then(()=>requestAnimationFrame(()=>window.scrollBy({top:anchor.getBoundingClientRect().top-offset,behavior:'instant'})));});
   }
-  const selectedSection=chapter?.sections.find(s=>s.id===sectionId)||chapter?.sections.find(s=>sectionId.startsWith('find-')&&s.text.toLowerCase().includes(decodeURIComponent(sectionId.slice(5)).toLowerCase()))||chapter?.sections.find(s=>{
+  const searchTerm=searchFragment(sectionId);
+  const selectedSection=chapter?.sections.find(s=>s.id===sectionId)||chapter?.sections.find(s=>searchTerm!==null&&s.text.toLowerCase().includes(searchTerm))||chapter?.sections.find(s=>{
     const match=sectionId.match(/-q(\d+)$/);if(!match)return false;
     const before=chapter.sections.slice(0,chapter.sections.indexOf(s)).reduce((n,x)=>n+(x.html.match(/<blockquote>/g)?.length??0),0);
     const count=s.html.match(/<blockquote>/g)?.length??0;
