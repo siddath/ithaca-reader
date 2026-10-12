@@ -570,5 +570,6 @@
       "label": "Ulysses"
     }
   ],
-  "checksums": "sources/checksums.json"
+  "checksums": "sources/checksums.json",
+  "culture": "culture.json"
 }

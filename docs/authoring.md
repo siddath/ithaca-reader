@@ -53,9 +53,20 @@ Keep IDs and `site.storageKey` stable once readers have saved their place. A new
 | `works[].endLink` | Final chapter destination with `href`, `label` |
 | `sectionLabels` | Map full note headings to shorter menu labels |
 | `frontispiece` | Optional image, caption, title, description, href and linkLabel |
+| `culture` | Optional path to an art and culture JSON file; see below |
 | `downloads` | Array of `{file, filename, label}`; generated under `/texts/` |
 
 Place artwork in `public/images/`, reference it as `/images/name.jpg`, and add provenance and terms to both the edition's About page and `THIRD_PARTY_NOTICES.md`. Remove unused default artwork if you do not want to distribute it. The supplied Content Security Policy expects images and fonts on the same origin.
+
+### Optional art and culture companion
+
+Set `"culture": "culture.json"` in the manifest to enable `/culture`, individual artwork pages and chapter links. Omit the field to keep an edition entirely text-based. The starter does not require this feature.
+
+Use `editions/odyssey/culture.json` as an example and `src/culture-types.ts` as the field reference. The file contains `title`, `description`, introductory paragraphs, a `featured` artwork ID, an `artworks` array, `themes` and a `chapters` guide. Artwork IDs are stable URL slugs. Every artwork needs an artist/maker, date, medium, collection, local image with dimensions and alt text, a summary, historical context, close-looking notes, literary interpretation, a question, chapter IDs, collection sources and image rights. `kind` is `painting` (including prints) or `object`; `relationship` distinguishes an episode depiction from a contextual comparison.
+
+Themes have original paragraphs, source links and chapter connections. Each guide entry connects an existing chapter ID to a cultural prompt and theme IDs. The compiler rejects missing rights, duplicate IDs, invalid images and unknown chapter/theme references. It does not validate historical accuracy or establish permission to publish an image. Review the actual image, collection record and rights notice together. Keep uncertainty explicit and distinguish the object's date from the era of the story.
+
+Store optimized images in `public/images/` and optional thumbnails alongside them; preserve the whole work when resizing. The Odyssey's `culture-sources.json` records image provenance, transformations and checksums. Add equivalent records and update credits when adapting the collection. Remove the default assets if your edition does not use them.
 
 ## 3. Add the original text
 
