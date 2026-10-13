@@ -17,3 +17,9 @@ Build before running `npm test`; Playwright starts and stops the local preview a
 `npm run test:starter` rebuilds the independent example and runs its generic check. Build the default edition again before deploying the default site. Do not run builds for different editions concurrently in one checkout: they share generated output paths.
 
 Tests use fresh browser contexts. Screenshots and failure traces stay in ignored local directories. Automated accessibility checks cover detected rules, not every aspect of accessibility; manually review reading comfort, keyboard order and a phone-sized view when changing layout or motion.
+
+## Search-fragment security regression — 5 October 2026
+
+`tests/search-fragment.spec.ts` covers malformed percent escapes on direct and history navigation, safe first-section fallback, and valid encoded Unicode search. Search terms are decoded once per render through a guarded helper. Existing chapter, passage and ordinary search links retain their behavior.
+
+Verification for this candidate: 11 compiler/unit tests and the production build pass; all 14 pre-existing browser cases pass, and all four new search-fragment cases pass with installed Chrome. The first new-test run exposed an ambiguous locator (three Original text buttons); the test now selects the existing mode switch. npm's dated install audit reports zero vulnerabilities. This is local candidate evidence, not deployment or cloud-finding closure.
